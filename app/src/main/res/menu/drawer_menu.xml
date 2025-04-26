@@ -3,8 +3,8 @@
 
     <item
         android:id="@+id/menu_item_1"
-        android:title="Menu Item 1" />
+        android:title="Learned Words" />
     <item
         android:id="@+id/menu_item_2"
-        android:title="Menu Item 2" />
+        android:title="Word Quiz" />
 </menu>

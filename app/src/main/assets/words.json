@@ -1,0 +1,2688 @@
+[
+  {
+    "germanWord": "der Apfel",
+    "meaning": "Apple",
+    "exampleSentence": "Der Apfel ist rot.",
+    "exampleMeaning": "The apple is red.",
+    "activityName": "A1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Katze",
+    "meaning": "Cat",
+    "exampleSentence": "Die Katze schläft auf dem Sofa.",
+    "exampleMeaning": "The cat is sleeping on the sofa.",
+    "activityName": "A1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Hund",
+    "meaning": "Dog",
+    "exampleSentence": "Der Hund läuft im Park.",
+    "exampleMeaning": "The dog is running in the park.",
+    "activityName": "A1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Haus",
+    "meaning": "House",
+    "exampleSentence": "Das Haus ist groß.",
+    "exampleMeaning": "The house is big.",
+    "activityName": "A1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Schule",
+    "meaning": "School",
+    "exampleSentence": "Die Schule beginnt um acht Uhr.",
+    "exampleMeaning": "The school starts at eight o'clock.",
+    "activityName": "A1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Auto",
+    "meaning": "Car",
+    "exampleSentence": "Das Auto ist schnell.",
+    "exampleMeaning": "The car is fast.",
+    "activityName": "A1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Tisch",
+    "meaning": "Table",
+    "exampleSentence": "Der Tisch ist aus Holz.",
+    "exampleMeaning": "The table is made of wood.",
+    "activityName": "A1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Stuhl",
+    "meaning": "Chair",
+    "exampleSentence": "Der Stuhl ist bequem.",
+    "exampleMeaning": "The chair is comfortable.",
+    "activityName": "A1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Freund",
+    "meaning": "Friend",
+    "exampleSentence": "Mein Freund ist sehr nett.",
+    "exampleMeaning": "My friend is very nice.",
+    "activityName": "A1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Freundin",
+    "meaning": "Girlfriend",
+    "exampleSentence": "Meine Freundin spielt Tennis.",
+    "exampleMeaning": "My girlfriend plays tennis.",
+    "activityName": "A1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Buch",
+    "meaning": "Book",
+    "exampleSentence": "Ich lese ein Buch.",
+    "exampleMeaning": "I am reading a book.",
+    "activityName": "A1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Stadt",
+    "meaning": "City",
+    "exampleSentence": "Die Stadt ist schön.",
+    "exampleMeaning": "The city is beautiful.",
+    "activityName": "A1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Zimmer",
+    "meaning": "Room",
+    "exampleSentence": "Das Zimmer ist klein, aber gemütlich.",
+    "exampleMeaning": "The room is small but cozy.",
+    "activityName": "A1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Tür",
+    "meaning": "Door",
+    "exampleSentence": "Die Tür ist geschlossen.",
+    "exampleMeaning": "The door is closed.",
+    "activityName": "A1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Topf",
+    "meaning": "pot",
+    "exampleSentence": "Der Topf steht auf dem Herd.",
+    "exampleMeaning": "The pot is on the stove.",
+    "activityName": "A1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Brot",
+    "meaning": "Bread",
+    "exampleSentence": "Ich esse Brot zum Frühstück.",
+    "exampleMeaning": "I eat bread for breakfast.",
+    "activityName": "A1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Hand",
+    "meaning": "Hand",
+    "exampleSentence": "Meine Hand tut weh.",
+    "exampleMeaning": "My hand hurts.",
+    "activityName": "A1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Name",
+    "meaning": "Name",
+    "exampleSentence": "Wie ist dein Name?",
+    "exampleMeaning": "What is your name?",
+    "activityName": "A1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Mutter",
+    "meaning": "Mother",
+    "exampleSentence": "Meine Mutter ist Lehrerin.",
+    "exampleMeaning": "My mother is a teacher.",
+    "activityName": "A1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Vater",
+    "meaning": "Father",
+    "exampleSentence": "Mein Vater arbeitet im Büro.",
+    "exampleMeaning": "My father works in the office.",
+    "activityName": "A1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Wasser",
+    "meaning": "Water",
+    "exampleSentence": "Das Wasser ist kalt.",
+    "exampleMeaning": "The water is cold.",
+    "activityName": "A1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Tag",
+    "meaning": "Day",
+    "exampleSentence": "Der Tag ist schön.",
+    "exampleMeaning": "The day is beautiful.",
+    "activityName": "A1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Uhr",
+    "meaning": "Clock",
+    "exampleSentence": "Die Uhr zeigt fünf Uhr.",
+    "exampleMeaning": "The clock shows five o'clock.",
+    "activityName": "A1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Lehrer",
+    "meaning": "Teacher",
+    "exampleSentence": "Der Lehrer spricht Englisch.",
+    "exampleMeaning": "The teacher speaks English.",
+    "activityName": "A1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Arbeit",
+    "meaning": "Work",
+    "exampleSentence": "Die Arbeit ist schwer.",
+    "exampleMeaning": "The work is hard.",
+    "activityName": "A1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Lampe",
+    "meaning": "Lamp",
+    "exampleSentence": "Die Lampe steht auf dem Tisch.",
+    "exampleMeaning": "The lamp is on the table.",
+    "activityName": "A1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Computer",
+    "meaning": "Computer",
+    "exampleSentence": "Ich arbeite am Computer.",
+    "exampleMeaning": "I work on the computer.",
+    "activityName": "A1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Handy",
+    "meaning": "Mobile phone",
+    "exampleSentence": "Mein Handy ist neu.",
+    "exampleMeaning": "My mobile phone is new.",
+    "activityName": "A1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Stift",
+    "meaning": "Pen",
+    "exampleSentence": "Der Stift liegt auf dem Buch.",
+    "exampleMeaning": "The pen is lying on the book.",
+    "activityName": "A1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Heft",
+    "meaning": "Notebook",
+    "exampleSentence": "Ich schreibe in mein Heft.",
+    "exampleMeaning": "I write in my notebook.",
+    "activityName": "A1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Flasche",
+    "meaning": "Bottle",
+    "exampleSentence": "Die Flasche ist leer.",
+    "exampleMeaning": "The bottle is empty.",
+    "activityName": "A1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Licht",
+    "meaning": "light",
+    "exampleSentence": "Mach bitte das Licht an.",
+    "exampleMeaning": "Please turn on the light.",
+    "activityName": "A1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Fenster",
+    "meaning": "Window",
+    "exampleSentence": "Ich öffne das Fenster.",
+    "exampleMeaning": "I open the window.",
+    "activityName": "A1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Bleistift",
+    "meaning": "Pencil",
+    "exampleSentence": "Ich zeichne mit einem Bleistift.",
+    "exampleMeaning": "I draw with a pencil.",
+    "activityName": "A1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Bus",
+    "meaning": "Bus",
+    "exampleSentence": "Der Bus kommt um 8 Uhr.",
+    "exampleMeaning": "The bus arrives at 8 o’clock.",
+    "activityName": "A1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Papier",
+    "meaning": "Paper",
+    "exampleSentence": "Ich brauche Papier zum Schreiben.",
+    "exampleMeaning": "I need paper for writing.",
+    "activityName": "A1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Tasche",
+    "meaning": "Bag",
+    "exampleSentence": "Meine Tasche ist schwer.",
+    "exampleMeaning": "My bag is heavy.",
+    "activityName": "A1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Brille",
+    "meaning": "Glasses",
+    "exampleSentence": "Ich trage eine Brille.",
+    "exampleMeaning": "I wear glasses.",
+    "activityName": "A1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Schrank",
+    "meaning": "Cupboard",
+    "exampleSentence": "Der Schrank ist voll.",
+    "exampleMeaning": "The cupboard is full.",
+    "activityName": "A1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Bett",
+    "meaning": "Bed",
+    "exampleSentence": "Ich liege im Bett.",
+    "exampleMeaning": "I am lying in bed.",
+    "activityName": "A1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Wand",
+    "meaning": "Wall",
+    "exampleSentence": "Ein Bild hängt an der Wand.",
+    "exampleMeaning": "A picture is hanging on the wall.",
+    "activityName": "A1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Boden",
+    "meaning": "Floor",
+    "exampleSentence": "Der Boden ist sauber.",
+    "exampleMeaning": "The floor is clean.",
+    "activityName": "A1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Bild",
+    "meaning": "Picture",
+    "exampleSentence": "Das Bild ist schön.",
+    "exampleMeaning": "The picture is beautiful.",
+    "activityName": "A1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Tasse",
+    "meaning": "Cup",
+    "exampleSentence": "Ich trinke Kaffee aus der Tasse.",
+    "exampleMeaning": "I drink coffee from the cup.",
+    "activityName": "A1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Löffel",
+    "meaning": "Spoon",
+    "exampleSentence": "Der Löffel liegt neben dem Teller.",
+    "exampleMeaning": "The spoon is next to the plate.",
+    "activityName": "A1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Gabel",
+    "meaning": "Fork",
+    "exampleSentence": "Wo ist die Gabel?",
+    "exampleMeaning": "Where is the fork?",
+    "activityName": "A1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Messer",
+    "meaning": "Knife",
+    "exampleSentence": "Ich schneide mit dem Messer.",
+    "exampleMeaning": "I cut with the knife.",
+    "activityName": "A1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Teller",
+    "meaning": "Plate",
+    "exampleSentence": "Der Teller ist leer.",
+    "exampleMeaning": "The plate is empty.",
+    "activityName": "A1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Glas",
+    "meaning": "Glass",
+    "exampleSentence": "Ich trinke Wasser aus dem Glas.",
+    "exampleMeaning": "I drink water from the glass.",
+    "activityName": "A1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Kühlschrank",
+    "meaning": "Fridge",
+    "exampleSentence": "Der Kühlschrank ist voll.",
+    "exampleMeaning": "The fridge is full.",
+    "activityName": "A1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },{
+  "germanWord": "die Straße",
+  "meaning": "Street",
+  "exampleSentence": "Die Straße ist lang.",
+  "exampleMeaning": "The street is long.",
+  "activityName": "A1_3VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},
+  {
+    "germanWord": "die Brücke",
+    "meaning": "Bridge",
+    "exampleSentence": "Wir gehen über die Brücke.",
+    "exampleMeaning": "We walk over the bridge.",
+    "activityName": "A1_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Zug",
+    "meaning": "Train",
+    "exampleSentence": "Der Zug ist verspätet.",
+    "exampleMeaning": "The train is delayed.",
+    "activityName": "A1_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Bahn",
+    "meaning": "Railway",
+    "exampleSentence": "Ich fahre mit der Bahn.",
+    "exampleMeaning": "I travel by railway.",
+    "activityName": "A1_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Fahrrad",
+    "meaning": "Bicycle",
+    "exampleSentence": "Ich fahre gern Fahrrad.",
+    "exampleMeaning": "I like to ride my bicycle.",
+    "activityName": "A1_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Taxi",
+    "meaning": "Taxi",
+    "exampleSentence": "Wir nehmen ein Taxi.",
+    "exampleMeaning": "We take a taxi.",
+    "activityName": "A1_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Fahrer",
+    "meaning": "Driver",
+    "exampleSentence": "Der Fahrer ist freundlich.",
+    "exampleMeaning": "The driver is friendly.",
+    "activityName": "A1_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Ampel",
+    "meaning": "Traffic light",
+    "exampleSentence": "Die Ampel ist rot.",
+    "exampleMeaning": "The traffic light is red.",
+    "activityName": "A1_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Flughafen",
+    "meaning": "Airport",
+    "exampleSentence": "Wir fahren zum Flughafen.",
+    "exampleMeaning": "We’re going to the airport.",
+    "activityName": "A1_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Flugzeug",
+    "meaning": "Airplane",
+    "exampleSentence": "Das Flugzeug landet pünktlich.",
+    "exampleMeaning": "The airplane lands on time.",
+    "activityName": "A1_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Ticket",
+    "meaning": "Ticket",
+    "exampleSentence": "Ich habe mein Ticket verloren.",
+    "exampleMeaning": "I lost my ticket.",
+    "activityName": "A1_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Fahrkarte",
+    "meaning": "Travel ticket",
+    "exampleSentence": "Wo kaufe ich eine Fahrkarte?",
+    "exampleMeaning": "Where do I buy a travel ticket?",
+    "activityName": "A1_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Gleis",
+    "meaning": "Platform",
+    "exampleSentence": "Der Zug fährt von Gleis 3 ab.",
+    "exampleMeaning": "The train departs from platform 3.",
+    "activityName": "A1_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Bahnhof",
+    "meaning": "Train station",
+    "exampleSentence": "Ich treffe dich am Bahnhof.",
+    "exampleMeaning": "I’ll meet you at the train station.",
+    "activityName": "A1_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Haltestelle",
+    "meaning": "Stop",
+    "exampleSentence": "Die nächste Haltestelle ist hier.",
+    "exampleMeaning": "The next stop is here.",
+    "activityName": "A1_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Weg",
+    "meaning": "Way / Path",
+    "exampleSentence": "Der Weg ist kurz.",
+    "exampleMeaning": "The path is short.",
+    "activityName": "A1_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Richtung",
+    "meaning": "Direction",
+    "exampleSentence": "Gehen Sie in diese Richtung.",
+    "exampleMeaning": "Go in this direction.",
+    "activityName": "A1_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Karte",
+    "meaning": "Map",
+    "exampleSentence": "Ich sehe auf die Karte.",
+    "exampleMeaning": "I look at the map.",
+    "activityName": "A1_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Kreuzung",
+    "meaning": "Intersection",
+    "exampleSentence": "Biegen Sie an der Kreuzung rechts ab.",
+    "exampleMeaning": "Turn right at the intersection.",
+    "activityName": "A1_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Verkehr",
+    "meaning": "Traffic",
+    "exampleSentence": "Der Verkehr ist stark heute.",
+    "exampleMeaning": "Traffic is heavy today.",
+    "activityName": "A1_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Ziel",
+    "meaning": "Destination",
+    "exampleSentence": "Mein Ziel ist Berlin.",
+    "exampleMeaning": "My destination is Berlin.",
+    "activityName": "A1_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Navi",
+    "meaning": "GPS / Navigation system",
+    "exampleSentence": "Ich benutze das Navi.",
+    "exampleMeaning": "I use the GPS.",
+    "activityName": "A1_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Plan",
+    "meaning": "Plan / Schedule",
+    "exampleSentence": "Wir machen einen Plan.",
+    "exampleMeaning": "We are making a plan.",
+    "activityName": "A1_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Wohnung",
+    "meaning": "Apartment",
+    "exampleSentence": "Ich habe eine schöne Wohnung.",
+    "exampleMeaning": "I have a nice apartment.",
+    "activityName": "A1_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Küche",
+    "meaning": "Kitchen",
+    "exampleSentence": "Die Küche ist modern.",
+    "exampleMeaning": "The kitchen is modern.",
+    "activityName": "A1_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Bad",
+    "meaning": "Bathroom",
+    "exampleSentence": "Das Bad ist sauber.",
+    "exampleMeaning": "The bathroom is clean.",
+    "activityName": "A1_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Wohnzimmer",
+    "meaning": "Living room",
+    "exampleSentence": "Wir sitzen im Wohnzimmer.",
+    "exampleMeaning": "We are sitting in the living room.",
+    "activityName": "A1_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Schlafzimmer",
+    "meaning": "Bedroom",
+    "exampleSentence": "Das Schlafzimmer ist gemütlich.",
+    "exampleMeaning": "The bedroom is cozy.",
+    "activityName": "A1_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Teppich",
+    "meaning": "Carpet",
+    "exampleSentence": "Der Teppich ist bunt.",
+    "exampleMeaning": "The carpet is colorful.",
+    "activityName": "A1_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Regal",
+    "meaning": "Shelf",
+    "exampleSentence": "Bücher stehen im Regal.",
+    "exampleMeaning": "Books are on the shelf.",
+    "activityName": "A1_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },{
+  "germanWord": "die Treppe",
+  "meaning": "Stairs",
+  "exampleSentence": "Ich gehe die Treppe hoch.",
+  "exampleMeaning": "I go up the stairs.",
+  "activityName": "A1_4VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},
+  {
+    "germanWord": "der Balkon",
+    "meaning": "Balcony",
+    "exampleSentence": "Wir sitzen auf dem Balkon.",
+    "exampleMeaning": "We’re sitting on the balcony.",
+    "activityName": "A1_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Garten",
+    "meaning": "Garden",
+    "exampleSentence": "Der Garten ist grün.",
+    "exampleMeaning": "The garden is green.",
+    "activityName": "A1_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Miete",
+    "meaning": "Rent",
+    "exampleSentence": "Die Miete ist hoch.",
+    "exampleMeaning": "The rent is high.",
+    "activityName": "A1_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Adresse",
+    "meaning": "Address",
+    "exampleSentence": "Was ist deine Adresse?",
+    "exampleMeaning": "What is your address?",
+    "activityName": "A1_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Dach",
+    "meaning": "Roof",
+    "exampleSentence": "Das Dach ist neu.",
+    "exampleMeaning": "The roof is new.",
+    "activityName": "A1_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Heizung",
+    "meaning": "Heating",
+    "exampleSentence": "Die Heizung ist aus.",
+    "exampleMeaning": "The heating is off.",
+    "activityName": "A1_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Steckdose",
+    "meaning": "Power outlet",
+    "exampleSentence": "Die Steckdose ist hinter dem Sofa.",
+    "exampleMeaning": "The power outlet is behind the sofa.",
+    "activityName": "A1_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },{
+  "germanWord": "die Post",
+  "meaning": "Post office",
+  "exampleSentence": "Ich gehe zur Post.",
+  "exampleMeaning": "I’m going to the post office.",
+  "activityName": "A1_4VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},{
+  "germanWord": "der Supermarkt",
+  "meaning": "Supermarket",
+  "exampleSentence": "Ich gehe zum Supermarkt.",
+  "exampleMeaning": "I’m going to the supermarket.",
+  "activityName": "A1_4VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},{
+  "germanWord": "die Apotheke",
+  "meaning": "Pharmacy",
+  "exampleSentence": "Die Apotheke ist neben dem Supermarkt.",
+  "exampleMeaning": "The pharmacy is next to the supermarket.",
+  "activityName": "A1_4VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},{
+  "germanWord": "das Restaurant",
+  "meaning": "Restaurant",
+  "exampleSentence": "Das Restaurant ist teuer.",
+  "exampleMeaning": "The restaurant is expensive.",
+  "activityName": "A1_4VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},
+  {
+    "germanWord": "die Bibliothek",
+    "meaning": "Library",
+    "exampleSentence": "Die Bibliothek ist ruhig.",
+    "exampleMeaning": "The library is quiet.",
+    "activityName": "A1_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Kino",
+    "meaning": "Cinema",
+    "exampleSentence": "Wir gehen ins Kino.",
+    "exampleMeaning": "We are going to the cinema.",
+    "activityName": "A1_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Park",
+    "meaning": "Park",
+    "exampleSentence": "Ich gehe im Park spazieren.",
+    "exampleMeaning": "I am taking a walk in the park.",
+    "activityName": "A1_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Hotel",
+    "meaning": "Hotel",
+    "exampleSentence": "Das Hotel ist sehr schön.",
+    "exampleMeaning": "The hotel is very nice.",
+    "activityName": "A1_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Laden",
+    "meaning": "Shop",
+    "exampleSentence": "Der Laden ist um die Ecke.",
+    "exampleMeaning": "The shop is around the corner.",
+    "activityName": "A1_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Tankstelle",
+    "meaning": "Gas station",
+    "exampleSentence": "Die Tankstelle ist rechts.",
+    "exampleMeaning": "The gas station is on the right.",
+    "activityName": "A1_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Kirche",
+    "meaning": "Church",
+    "exampleSentence": "Die Kirche ist alt.",
+    "exampleMeaning": "The church is old.",
+    "activityName": "A1_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Krankenhaus",
+    "meaning": "Hospital",
+    "exampleSentence": "Das Krankenhaus ist weit entfernt.",
+    "exampleMeaning": "The hospital is far away.",
+    "activityName": "A1_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },{
+  "germanWord": "der Fernseher",
+  "meaning": "Television",
+  "exampleSentence": "Der Fernseher ist an.",
+  "exampleMeaning": "The television is on.",
+  "activityName": "A1_5VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},{
+  "germanWord": "die Orange",
+  "meaning": "Orange",
+  "exampleSentence": "Die Orange ist süß.",
+  "exampleMeaning": "The orange is sweet.",
+  "activityName": "A1_5VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},{
+  "germanWord": "die Banane",
+  "meaning": "Banana",
+  "exampleSentence": "Die Banane ist gelb.",
+  "exampleMeaning": "The banana is yellow.",
+  "activityName": "A1_5VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},
+  {
+    "germanWord": "die Tomate",
+    "meaning": "Tomato",
+    "exampleSentence": "Die Tomate ist rot.",
+    "exampleMeaning": "The tomato is red.",
+    "activityName": "A1_5VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Karotte",
+    "meaning": "Carrot",
+    "exampleSentence": "Die Karotte ist orange.",
+    "exampleMeaning": "The carrot is orange.",
+    "activityName": "A1_5VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Kartoffel",
+    "meaning": "Potato",
+    "exampleSentence": "Die Kartoffel ist braun.",
+    "exampleMeaning": "The potato is brown.",
+    "activityName": "A1_5VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },{
+  "germanWord": "der Schlüssel",
+  "meaning": "Key",
+  "exampleSentence": "Ich habe den Schlüssel verloren.",
+  "exampleMeaning": "I lost the key.",
+  "activityName": "A1_5VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},
+  {
+    "germanWord": "der Schuh",
+    "meaning": "Shoe",
+    "exampleSentence": "Der Schuh ist neu.",
+    "exampleMeaning": "The shoe is new.",
+    "activityName": "A1_5VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Jacke",
+    "meaning": "Jacket",
+    "exampleSentence": "Die Jacke ist warm.",
+    "exampleMeaning": "The jacket is warm.",
+    "activityName": "A1_5VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },{
+  "germanWord": "die Zeitung",
+  "meaning": "Newspaper",
+  "exampleSentence": "Ich lese die Zeitung.",
+  "exampleMeaning": "I read the newspaper.",
+  "activityName": "A1_5VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},
+  {
+    "germanWord": "der Laptop",
+    "meaning": "Laptop",
+    "exampleSentence": "Der Laptop ist sehr teuer.",
+    "exampleMeaning": "The laptop is very expensive.",
+    "activityName": "A1_5VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Kamera",
+    "meaning": "Camera",
+    "exampleSentence": "Die Kamera ist kaputt.",
+    "exampleMeaning": "The camera is broken.",
+    "activityName": "A1_5VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Mülleimer",
+    "meaning": "Garbage can",
+    "exampleSentence": "Der Mülleimer ist voll.",
+    "exampleMeaning": "The garbage can is full.",
+    "activityName": "A1_5VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },{
+  "germanWord": "die Blume",
+  "meaning": "Flower",
+  "exampleSentence": "Die Blume ist schön.",
+  "exampleMeaning": "The flower is beautiful.",
+  "activityName": "A1_5VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},
+  {
+    "germanWord": "der Baum",
+    "meaning": "Tree",
+    "exampleSentence": "Der Baum ist hoch.",
+    "exampleMeaning": "The tree is tall.",
+    "activityName": "A1_5VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Gras",
+    "meaning": "Grass",
+    "exampleSentence": "Das Gras ist grün.",
+    "exampleMeaning": "The grass is green.",
+    "activityName": "A1_5VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Vogel",
+    "meaning": "Bird",
+    "exampleSentence": "Der Vogel singt.",
+    "exampleMeaning": "The bird is singing.",
+    "activityName": "A1_5VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Maus",
+    "meaning": "Mouse",
+    "exampleSentence": "Die Maus ist klein.",
+    "exampleMeaning": "The mouse is small.",
+    "activityName": "A1_5VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Pferd",
+    "meaning": "Horse",
+    "exampleSentence": "Das Pferd läuft schnell.",
+    "exampleMeaning": "The horse runs fast.",
+    "activityName": "A1_5VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Kuh",
+    "meaning": "Cow",
+    "exampleSentence": "Die Kuh gibt Milch.",
+    "exampleMeaning": "The cow gives milk.",
+    "activityName": "A1_5VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Schwein",
+    "meaning": "Pig",
+    "exampleSentence": "Das Schwein ist rosa.",
+    "exampleMeaning": "The pig is pink.",
+    "activityName": "A1_5VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Fisch",
+    "meaning": "Fish",
+    "exampleSentence": "Der Fisch schwimmt im Wasser.",
+    "exampleMeaning": "The fish swims in the water.",
+    "activityName": "A1_5VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Land",
+    "meaning": "Country",
+    "exampleSentence": "Ich komme aus einem anderen Land.",
+    "exampleMeaning": "I come from another country.",
+    "activityName": "A1_5VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Dorf",
+    "meaning": "Village",
+    "exampleSentence": "Das Dorf ist sehr klein.",
+    "exampleMeaning": "The village is very small.",
+    "activityName": "A1_5VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der See",
+    "meaning": "Lake",
+    "exampleSentence": "Der See ist ruhig.",
+    "exampleMeaning": "The lake is calm.",
+    "activityName": "A1_5VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Fluss",
+    "meaning": "River",
+    "exampleSentence": "Der Fluss fließt schnell.",
+    "exampleMeaning": "The river flows fast.",
+    "activityName": "A1_6VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Berg",
+    "meaning": "Mountain",
+    "exampleSentence": "Der Berg ist hoch.",
+    "exampleMeaning": "The mountain is high.",
+    "activityName": "A1_6VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Wald",
+    "meaning": "Forest",
+    "exampleSentence": "Der Wald ist dunkel.",
+    "exampleMeaning": "The forest is dark.",
+    "activityName": "A1_6VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Strand",
+    "meaning": "Beach",
+    "exampleSentence": "Der Strand ist schön.",
+    "exampleMeaning": "The beach is beautiful.",
+    "activityName": "A1_6VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Insel",
+    "meaning": "Island",
+    "exampleSentence": "Die Insel ist weit entfernt.",
+    "exampleMeaning": "The island is far away.",
+    "activityName": "A1_6VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Meer",
+    "meaning": "Sea",
+    "exampleSentence": "Das Meer ist blau.",
+    "exampleMeaning": "The sea is blue.",
+    "activityName": "A1_6VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Universität",
+    "meaning": "University",
+    "exampleSentence": "Die Universität ist weit weg.",
+    "exampleMeaning": "The university is far away.",
+    "activityName": "A1_6VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Büro",
+    "meaning": "Office",
+    "exampleSentence": "Ich arbeite im Büro.",
+    "exampleMeaning": "I work in the office.",
+    "activityName": "A1_6VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Bank",
+    "meaning": "Bank",
+    "exampleSentence": "Die Bank ist geschlossen.",
+    "exampleMeaning": "The bank is closed.",
+    "activityName": "A1_6VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Geschäft",
+    "meaning": "Store",
+    "exampleSentence": "Das Geschäft hat viele Produkte.",
+    "exampleMeaning": "The store has many products.",
+    "activityName": "A1_6VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },{
+  "germanWord": "das Café",
+  "meaning": "Café",
+  "exampleSentence": "Wir trinken Kaffee im Café.",
+  "exampleMeaning": "We drink coffee at the café.",
+  "activityName": "A1_6VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},
+  {
+    "germanWord": "das Museum",
+    "meaning": "Museum",
+    "exampleSentence": "Das Museum ist interessant.",
+    "exampleMeaning": "The museum is interesting.",
+    "activityName": "A1_6VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Theater",
+    "meaning": "Theater",
+    "exampleSentence": "Das Theater hat ein neues Stück.",
+    "exampleMeaning": "The theater has a new play.",
+    "activityName": "A1_6VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Oper",
+    "meaning": "Opera",
+    "exampleSentence": "Ich gehe in die Oper.",
+    "exampleMeaning": "I am going to the opera.",
+    "activityName": "A1_6VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Zoo",
+    "meaning": "Zoo",
+    "exampleSentence": "Der Zoo ist sehr interessant.",
+    "exampleMeaning": "The zoo is very interesting.",
+    "activityName": "A1_6VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Bar",
+    "meaning": "Bar",
+    "exampleSentence": "Wir gehen in die Bar.",
+    "exampleMeaning": "We are going to the bar.",
+    "activityName": "A1_6VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Disco",
+    "meaning": "Disco",
+    "exampleSentence": "Die Disco ist sehr laut.",
+    "exampleMeaning": "The disco is very loud.",
+    "activityName": "A1_6VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Mikrowelle",
+    "meaning": "Microwave",
+    "exampleSentence": "Die Mikrowelle ist kaputt.",
+    "exampleMeaning": "The microwave is broken.",
+    "activityName": "A1_6VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Herd",
+    "meaning": "Stove",
+    "exampleSentence": "Der Herd ist sehr heiß.",
+    "exampleMeaning": "The stove is very hot.",
+    "activityName": "A1_6VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Waschmaschine",
+    "meaning": "Washing machine",
+    "exampleSentence": "Die Waschmaschine funktioniert nicht.",
+    "exampleMeaning": "The washing machine doesn't work.",
+    "activityName": "A1_6VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Staubsauger",
+    "meaning": "Vacuum cleaner",
+    "exampleSentence": "Der Staubsauger ist laut.",
+    "exampleMeaning": "The vacuum cleaner is loud.",
+    "activityName": "A1_6VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Dusche",
+    "meaning": "Shower",
+    "exampleSentence": "Die Dusche ist sehr sauber.",
+    "exampleMeaning": "The shower is very clean.",
+    "activityName": "A1_6VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },{
+  "germanWord": "die Decke",
+  "meaning": "Ceiling",
+  "exampleSentence": "Die Decke ist hoch.",
+  "exampleMeaning": "The ceiling is high.",
+  "activityName": "A1_6VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},{
+  "germanWord": "der Wasserkocher",
+  "meaning": "Kettle",
+  "exampleSentence": "Der Wasserkocher ist an.",
+  "exampleMeaning": "The kettle is on.",
+  "activityName": "A1_6VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},
+  {
+    "germanWord": "die Zahnbürste",
+    "meaning": "Toothbrush",
+    "exampleSentence": "Die Zahnbürste ist im Badezimmer.",
+    "exampleMeaning": "The toothbrush is in the bathroom.",
+    "activityName": "A1_6VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Handtuch",
+    "meaning": "Towel",
+    "exampleSentence": "Das Handtuch ist trocken.",
+    "exampleMeaning": "The towel is dry.",
+    "activityName": "A1_6VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Spiegel",
+    "meaning": "Mirror",
+    "exampleSentence": "Der Spiegel ist groß.",
+    "exampleMeaning": "The mirror is big.",
+    "activityName": "A1_6VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Aufgabe",
+    "meaning": "Task",
+    "exampleSentence": "Die Aufgabe ist schwer.",
+    "exampleMeaning": "The task is difficult.",
+    "activityName": "A2_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Frage",
+    "meaning": "Question",
+    "exampleSentence": "Hast du eine Frage?",
+    "exampleMeaning": "Do you have a question?",
+    "activityName": "A2_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },{
+  "germanWord": "die Sprache",
+  "meaning": "Language",
+  "exampleSentence": "Die deutsche Sprache ist interessant.",
+  "exampleMeaning": "The German language is interesting.",
+  "activityName": "A2_1VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+  },
+  {
+    "germanWord": "die Stunde",
+    "meaning": "Hour, lesson",
+    "exampleSentence": "Die Stunde ist vorbei.",
+    "exampleMeaning": "The lesson is over.",
+    "activityName": "A2_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Woche",
+    "meaning": "Week",
+    "exampleSentence": "Ich arbeite fünf Tage in der Woche.",
+    "exampleMeaning": "I work five days a week.",
+    "activityName": "A2_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Jahr",
+    "meaning": "Year",
+    "exampleSentence": "Das Jahr hat 365 Tage.",
+    "exampleMeaning": "The year has 365 days.",
+    "activityName": "A2_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Familie",
+    "meaning": "Family",
+    "exampleSentence": "Meine Familie ist sehr groß.",
+    "exampleMeaning": "My family is very large.",
+    "activityName": "A2_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Essen",
+    "meaning": "Food, meal",
+    "exampleSentence": "Das Essen schmeckt sehr gut.",
+    "exampleMeaning": "The food tastes very good.",
+    "activityName": "A2_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Kunde",
+    "meaning": "Customer",
+    "exampleSentence": "Der Kunde ist immer freundlich.",
+    "exampleMeaning": "The customer is always friendly.",
+    "activityName": "A2_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },{
+  "germanWord": "die Telefonnummer",
+  "meaning": "Phone number",
+  "exampleSentence": "Kannst du mir deine Telefonnummer geben?",
+  "exampleMeaning": "Can you give me your phone number?",
+  "activityName": "A2_1VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},
+  {
+    "germanWord": "der Monat",
+    "meaning": "Month",
+    "exampleSentence": "Der Monat April ist sehr schön.",
+    "exampleMeaning": "The month of April is very nice.",
+    "activityName": "A2_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Antwort",
+    "meaning": "Answer",
+    "exampleSentence": "Die Antwort auf die Frage ist richtig.",
+    "exampleMeaning": "The answer to the question is correct.",
+    "activityName": "A2_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Reise",
+    "meaning": "Trip, journey",
+    "exampleSentence": "Ich mache eine lange Reise.",
+    "exampleMeaning": "I am going on a long journey.",
+    "activityName": "A2_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },{
+  "germanWord": "das Kind",
+  "meaning": "Child",
+  "exampleSentence": "Das Kind spielt im Garten.",
+  "exampleMeaning": "The child is playing in the garden.",
+  "activityName": "A2_1VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},{
+  "germanWord": "der Sommer",
+  "meaning": "Summer",
+  "exampleSentence": "Im Sommer ist es oft sehr heiß.",
+  "exampleMeaning": "It is often very hot in the summer.",
+  "activityName": "A2_1VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+}, {
+  "germanWord": "der Vogel",
+  "meaning": "Bird",
+  "exampleSentence": "Der Vogel fliegt hoch am Himmel.",
+  "exampleMeaning": "The bird flies high in the sky.",
+  "activityName": "A2_1VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},
+  {
+    "germanWord": "der Ball",
+    "meaning": "ball",
+    "exampleSentence": "Der Ball ist im Garten.",
+    "exampleMeaning": "The ball is in the garden.",
+    "activityName": "A2_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },{
+  "germanWord": "die Erdbeere",
+  "meaning": "Strawberry",
+  "exampleSentence": "Die Erdbeeren sind frisch.",
+  "exampleMeaning": "The strawberries are fresh.",
+  "activityName": "A2_1VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+}, {
+  "germanWord": "die Kirsche",
+  "meaning": "Cherry",
+  "exampleSentence": "Die Kirschen sind rot.",
+  "exampleMeaning": "The cherries are red.",
+  "activityName": "A2_1VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+}, {
+  "germanWord": "der Fisch",
+  "meaning": "Fish",
+  "exampleSentence": "Der Fisch schwimmt im Wasser.",
+  "exampleMeaning": "The fish is swimming in the water.",
+  "activityName": "A2_1VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},
+  {
+    "germanWord": "das Gemüse",
+    "meaning": "Vegetable",
+    "exampleSentence": "Ich esse gerne Gemüse.",
+    "exampleMeaning": "I like to eat vegetables.",
+    "activityName": "A2_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Mantel",
+    "meaning": "Coat",
+    "exampleSentence": "Im Winter trage ich einen Mantel.",
+    "exampleMeaning": "I wear a coat in winter.",
+    "activityName": "A2_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Pullover",
+    "meaning": "Sweater",
+    "exampleSentence": "Dieser Pullover ist zu groß.",
+    "exampleMeaning": "This sweater is too big.",
+    "activityName": "A2_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  }, {
+  "germanWord": "die Hose",
+  "meaning": "Pants",
+  "exampleSentence": "Die Hose ist zu lang.",
+  "exampleMeaning": "The pants are too long.",
+  "activityName": "A2_1VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},
+  {
+    "germanWord": "das Hemd",
+    "meaning": "Shirt",
+    "exampleSentence": "Er trägt ein blaues Hemd.",
+    "exampleMeaning": "He is wearing a blue shirt.",
+    "activityName": "A2_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Mütze",
+    "meaning": "Cap",
+    "exampleSentence": "Ich trage im Winter eine Mütze.",
+    "exampleMeaning": "I wear a cap in winter.",
+    "activityName": "A2_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Bluse",
+    "meaning": "Blouse",
+    "exampleSentence": "Sie trägt eine elegante Bluse.",
+    "exampleMeaning": "She is wearing an elegant blouse.",
+    "activityName": "A2_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Rock",
+    "meaning": "Skirt",
+    "exampleSentence": "Der Rock ist sehr modisch.",
+    "exampleMeaning": "The skirt is very fashionable.",
+    "activityName": "A2_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Hut",
+    "meaning": "Hat",
+    "exampleSentence": "Er trägt einen schwarzen Hut.",
+    "exampleMeaning": "He is wearing a black hat.",
+    "activityName": "A2_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Kleid",
+    "meaning": "Dress",
+    "exampleSentence": "Sie trägt ein schönes Kleid.",
+    "exampleMeaning": "She is wearing a beautiful dress.",
+    "activityName": "A2_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Strumpfhose",
+    "meaning": "Tights",
+    "exampleSentence": "Im Winter trage ich Strumpfhosen.",
+    "exampleMeaning": "I wear tights in winter.",
+    "activityName": "A2_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Geldbeutel",
+    "meaning": "Wallet",
+    "exampleSentence": "Mein Geldbeutel ist leer.",
+    "exampleMeaning": "My wallet is empty.",
+    "activityName": "A2_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Portemonnaie",
+    "meaning": "Wallet",
+    "exampleSentence": "Mein Portemonnaie ist voll.",
+    "exampleMeaning": "My wallet is full.",
+    "activityName": "A2_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Kalender",
+    "meaning": "Calendar",
+    "exampleSentence": "Der Kalender hängt an der Wand im Büro.",
+    "exampleMeaning": "The calendar hangs on the wall in the office.",
+    "activityName": "A2_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Jahreszeit",
+    "meaning": "Season",
+    "exampleSentence": "Der Frühling ist meine Lieblingsjahreszeit.",
+    "exampleMeaning": "Spring is my favorite season.",
+    "activityName": "A2_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Frühling",
+    "meaning": "Spring",
+    "exampleSentence": "Im Frühling blühen die Blumen.",
+    "exampleMeaning": "In spring, the flowers bloom.",
+    "activityName": "A2_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Rechnung",
+    "meaning": "Bill",
+    "exampleSentence": "Könnte ich bitte die Rechnung bekommen?",
+    "exampleMeaning": "Could I get the bill, please?",
+    "activityName": "A2_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Rezept",
+    "meaning": "Recipe",
+    "exampleSentence": "Dieses Rezept ist einfach und lecker.",
+    "exampleMeaning": "This recipe is easy and delicious.",
+    "activityName": "A2_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Termin",
+    "meaning": "Appointment",
+    "exampleSentence": "Ich habe morgen einen Termin beim Zahnarzt.",
+    "exampleMeaning": "I have a dentist appointment tomorrow.",
+    "activityName": "A2_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },{
+  "germanWord": "die Unterkunft",
+  "meaning": "Accommodation",
+  "exampleSentence": "Wir suchen eine günstige Unterkunft.",
+  "exampleMeaning": "We are looking for affordable accommodation.",
+  "activityName": "A2_2VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},
+  {
+    "germanWord": "das Gehalt",
+    "meaning": "Salary",
+    "exampleSentence": "Er bekommt ein gutes Gehalt.",
+    "exampleMeaning": "He receives a good salary.",
+    "activityName": "A2_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Bewerbung",
+    "meaning": "Application",
+    "exampleSentence": "Ich schreibe eine Bewerbung für einen Job.",
+    "exampleMeaning": "I'm writing a job application.",
+    "activityName": "A2_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },{
+  "germanWord": "der Urlaub",
+  "meaning": "Vacation",
+  "exampleSentence": "Wir machen im Sommer Urlaub in Italien.",
+  "exampleMeaning": "We are going on vacation to Italy in the summer.",
+  "activityName": "A2_2VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},
+  {
+    "germanWord": "die Nachricht",
+    "meaning": "Message",
+    "exampleSentence": "Ich habe eine Nachricht für dich.",
+    "exampleMeaning": "I have a message for you.",
+    "activityName": "A2_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Einladung",
+    "meaning": "Invitation",
+    "exampleSentence": "Danke für die Einladung zur Party!",
+    "exampleMeaning": "Thanks for the invitation to the party!",
+    "activityName": "A2_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Geschenk",
+    "meaning": "Gift",
+    "exampleSentence": "Ich habe ein Geschenk für dich.",
+    "exampleMeaning": "I have a gift for you.",
+    "activityName": "A2_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Entscheidung",
+    "meaning": "Decision",
+    "exampleSentence": "Es war eine schwierige Entscheidung.",
+    "exampleMeaning": "It was a difficult decision.",
+    "activityName": "A2_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Bildschirm",
+    "meaning": "Screen",
+    "exampleSentence": "Der Bildschirm ist zu dunkel.",
+    "exampleMeaning": "The screen is too dark.",
+    "activityName": "A2_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Kennwort",
+    "meaning": "Password",
+    "exampleSentence": "Bitte gib dein Kennwort ein.",
+    "exampleMeaning": "Please enter your password.",
+    "activityName": "A2_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Abfahrt",
+    "meaning": "Departure",
+    "exampleSentence": "Die Abfahrt ist um 8 Uhr morgens.",
+    "exampleMeaning": "The departure is at 8 in the morning.",
+    "activityName": "A2_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Eingang",
+    "meaning": "Entrance",
+    "exampleSentence": "Der Eingang ist auf der linken Seite.",
+    "exampleMeaning": "The entrance is on the left side.",
+    "activityName": "A2_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Eintrittskarte",
+    "meaning": "Ticket",
+    "exampleSentence": "Ich habe eine Eintrittskarte für das Konzert.",
+    "exampleMeaning": "I have a ticket for the concert.",
+    "activityName": "A2_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Festival",
+    "meaning": "Festival",
+    "exampleSentence": "Das Festival beginnt am Freitag.",
+    "exampleMeaning": "The festival starts on Friday.",
+    "activityName": "A2_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Spaziergang",
+    "meaning": "Walk",
+    "exampleSentence": "Wir machen einen Spaziergang im Wald.",
+    "exampleMeaning": "We are going for a walk in the forest.",
+    "activityName": "A2_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Ausstellung",
+    "meaning": "Exhibition",
+    "exampleSentence": "Die Ausstellung zeigt moderne Kunst.",
+    "exampleMeaning": "The exhibition displays modern art.",
+    "activityName": "A2_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Eintritt",
+    "meaning": "Admission",
+    "exampleSentence": "Der Eintritt ist heute kostenlos.",
+    "exampleMeaning": "Admission is free today.",
+    "activityName": "A2_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },{
+  "germanWord": "die Ermäßigung",
+  "meaning": "Discount",
+  "exampleSentence": "Gibt es eine Ermäßigung für Studenten?",
+  "exampleMeaning": "Is there a discount for students?",
+  "activityName": "A2_3VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},
+  {
+    "germanWord": "die Veranstaltung",
+    "meaning": "Event",
+    "exampleSentence": "Die Veranstaltung beginnt um acht Uhr.",
+    "exampleMeaning": "The event starts at eight o'clock.",
+    "activityName": "A2_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Besucher",
+    "meaning": "Visitor",
+    "exampleSentence": "Die Besucher kommen aus verschiedenen Ländern.",
+    "exampleMeaning": "The visitors come from different countries.",
+    "activityName": "A2_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Führung",
+    "meaning": "Guided Tour",
+    "exampleSentence": "Die Führung durch das Museum dauert eine Stunde.",
+    "exampleMeaning": "The guided tour through the museum lasts one hour.",
+    "activityName": "A2_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Konzert",
+    "meaning": "Concert",
+    "exampleSentence": "Das Konzert war wirklich toll.",
+    "exampleMeaning": "The concert was really great.",
+    "activityName": "A2_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Bühne",
+    "meaning": "Stage",
+    "exampleSentence": "Die Sängerin steht auf der Bühne.",
+    "exampleMeaning": "The singer is standing on the stage.",
+    "activityName": "A2_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Zuschauer",
+    "meaning": "Spectator",
+    "exampleSentence": "Die Zuschauer klatschen laut.",
+    "exampleMeaning": "The spectators are clapping loudly.",
+    "activityName": "A2_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Eintrittszeit",
+    "meaning": "Admission Time",
+    "exampleSentence": "Die Eintrittszeit steht auf der Karte.",
+    "exampleMeaning": "The admission time is on the ticket.",
+    "activityName": "A2_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Musik",
+    "meaning": "Music",
+    "exampleSentence": "Ich höre gern klassische Musik.",
+    "exampleMeaning": "I like listening to classical music.",
+    "activityName": "A2_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },{
+  "germanWord": "der Künstler",
+  "meaning": "Artist",
+  "exampleSentence": "Der Künstler malt ein neues Bild.",
+  "exampleMeaning": "The artist is painting a new picture.",
+  "activityName": "A2_3VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},
+  {
+    "germanWord": "der Vortrag",
+    "meaning": "Lecture",
+    "exampleSentence": "Der Vortrag war sehr informativ.",
+    "exampleMeaning": "The lecture was very informative.",
+    "activityName": "A2_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Programm",
+    "meaning": "Program",
+    "exampleSentence": "Das Programm für heute ist sehr spannend.",
+    "exampleMeaning": "The program for today is very exciting.",
+    "activityName": "A2_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Pause",
+    "meaning": "Break",
+    "exampleSentence": "In der Pause trinken wir Kaffee.",
+    "exampleMeaning": "We drink coffee during the break.",
+    "activityName": "A2_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Applaus",
+    "meaning": "Applause",
+    "exampleSentence": "Am Ende gab es viel Applaus.",
+    "exampleMeaning": "There was a lot of applause at the end.",
+    "activityName": "A2_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Student",
+    "meaning": "Student",
+    "exampleSentence": "Der Student lernt für die Prüfung.",
+    "exampleMeaning": "The student is studying for the exam.",
+    "activityName": "A2_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Prüfung",
+    "meaning": "Exam",
+    "exampleSentence": "Die Prüfung ist morgen.",
+    "exampleMeaning": "The exam is tomorrow.",
+    "activityName": "A2_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },{
+  "germanWord": "der Fehler",
+  "meaning": "Mistake",
+  "exampleSentence": "Der Fehler wurde schnell korrigiert.",
+  "exampleMeaning": "The mistake was corrected quickly.",
+  "activityName": "A2_3VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},
+  {
+    "germanWord": "die Note",
+    "meaning": "Grade",
+    "exampleSentence": "Ich habe eine gute Note in Mathe bekommen.",
+    "exampleMeaning": "I received a good grade in math.",
+    "activityName": "A2_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Schüler",
+    "meaning": "Pupil",
+    "exampleSentence": "Der Schüler schreibt einen Aufsatz.",
+    "exampleMeaning": "The pupil is writing an essay.",
+    "activityName": "A2_3VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Rucksack",
+    "meaning": "Backpack",
+    "exampleSentence": "Mein Rucksack ist schwer.",
+    "exampleMeaning": "My backpack is heavy.",
+    "activityName": "A2_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+
+  {
+    "germanWord": "die Pflanze",
+    "meaning": "Plant",
+    "exampleSentence": "Die Pflanze braucht viel Wasser.",
+    "exampleMeaning": "The plant needs a lot of water.",
+    "activityName": "A2_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Getränk",
+    "meaning": "Drink",
+    "exampleSentence": "Ich trinke ein kaltes Getränk.",
+    "exampleMeaning": "I am drinking a cold drink.",
+    "activityName": "A2_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Kuchen",
+    "meaning": "Cake",
+    "exampleSentence": "Der Kuchen ist lecker.",
+    "exampleMeaning": "The cake is delicious.",
+    "activityName": "A2_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Suppe",
+    "meaning": "Soup",
+    "exampleSentence": "Ich esse eine heiße Suppe.",
+    "exampleMeaning": "I am eating a hot soup.",
+    "activityName": "A2_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Salat",
+    "meaning": "Salad",
+    "exampleSentence": "Ich esse gerne einen Salat.",
+    "exampleMeaning": "I like eating a salad.",
+    "activityName": "A2_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Ofen",
+    "meaning": "Oven",
+    "exampleSentence": "Der Ofen ist sehr heiß.",
+    "exampleMeaning": "The oven is very hot.",
+    "activityName": "A2_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Sessel",
+    "meaning": "Armchair",
+    "exampleSentence": "Ich sitze im Sessel und lese ein Buch.",
+    "exampleMeaning": "I am sitting in the armchair and reading a book.",
+    "activityName": "A2_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Sofa",
+    "meaning": "Sofa",
+    "exampleSentence": "Das Sofa ist sehr bequem.",
+    "exampleMeaning": "The sofa is very comfortable.",
+    "activityName": "A2_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Abfalleimer",
+    "meaning": "Trash can",
+    "exampleSentence": "Der Abfalleimer steht neben der Tür.",
+    "exampleMeaning": "The trash can is next to the door.",
+    "activityName": "A2_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Toilette",
+    "meaning": "Toilet",
+    "exampleSentence": "Die Toilette ist im Badezimmer.",
+    "exampleMeaning": "The toilet is in the bathroom.",
+    "activityName": "A2_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Tier",
+    "meaning": "Animal",
+    "exampleSentence": "Das Tier lebt im Wald.",
+    "exampleMeaning": "The animal lives in the forest.",
+    "activityName": "A2_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Ecke",
+    "meaning": "Corner",
+    "exampleSentence": "Das Sofa steht in der Ecke.",
+    "exampleMeaning": "The sofa is in the corner.",
+    "activityName": "A2_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Kleidung",
+    "meaning": "Clothes",
+    "exampleSentence": "Die Kleidung ist im Schrank.",
+    "exampleMeaning": "The clothes are in the wardrobe.",
+    "activityName": "A2_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },{
+  "germanWord": "die Freundschaft",
+  "meaning": "Friendship",
+  "exampleSentence": "Unsere Freundschaft ist sehr stark.",
+  "exampleMeaning": "Our friendship is very strong.",
+  "activityName": "A2_4VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},
+  {
+    "germanWord": "die Wolke",
+    "meaning": "Cloud",
+    "exampleSentence": "Die Wolke ist weiß.",
+    "exampleMeaning": "The cloud is white.",
+    "activityName": "A2_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Regen",
+    "meaning": "Rain",
+    "exampleSentence": "Der Regen hört bald auf.",
+    "exampleMeaning": "The rain will stop soon.",
+    "activityName": "A2_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Sonne",
+    "meaning": "Sun",
+    "exampleSentence": "Die Sonne scheint.",
+    "exampleMeaning": "The sun is shining.",
+    "activityName": "A2_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Wind",
+    "meaning": "Wind",
+    "exampleSentence": "Der Wind weht stark.",
+    "exampleMeaning": "The wind is blowing strongly.",
+    "activityName": "A2_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Temperatur",
+    "meaning": "Temperature",
+    "exampleSentence": "Die Temperatur ist sehr hoch.",
+    "exampleMeaning": "The temperature is very high.",
+    "activityName": "A2_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Schnee",
+    "meaning": "Snow",
+    "exampleSentence": "Der Schnee bedeckt den Boden.",
+    "exampleMeaning": "The snow covers the ground.",
+    "activityName": "A2_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Autobahn",
+    "meaning": "Highway",
+    "exampleSentence": "Die Autobahn ist schnell.",
+    "exampleMeaning": "The highway is fast.",
+    "activityName": "A2_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Internet",
+    "meaning": "Internet",
+    "exampleSentence": "Das Internet ist langsam heute.",
+    "exampleMeaning": "The internet is slow today.",
+    "activityName": "A2_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Brief",
+    "meaning": "Letter",
+    "exampleSentence": "Der Brief ist für dich.",
+    "exampleMeaning": "The letter is for you.",
+    "activityName": "A2_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Schere",
+    "meaning": "Scissors",
+    "exampleSentence": "Die Schere ist scharf.",
+    "exampleMeaning": "The scissors are sharp.",
+    "activityName": "A2_4VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Fortschritt",
+    "meaning": "Progress",
+    "exampleSentence": "Technologischer Fortschritt verändert die Welt.",
+    "exampleMeaning": "Technological progress changes the world.",
+    "activityName": "B1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Umwelt",
+    "meaning": "Environment",
+    "exampleSentence": "Wir müssen unsere Umwelt schützen.",
+    "exampleMeaning": "We must protect our environment.",
+    "activityName": "B1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Eindruck",
+    "meaning": "Impression",
+    "exampleSentence": "Er machte einen guten Eindruck beim Gespräch.",
+    "exampleMeaning": "He made a good impression during the interview.",
+    "activityName": "B1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Beziehung",
+    "meaning": "Relationship",
+    "exampleSentence": "Ihre Beziehung ist sehr harmonisch.",
+    "exampleMeaning": "Their relationship is very harmonious.",
+    "activityName": "B1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Vorschlag",
+    "meaning": "Suggestion",
+    "exampleSentence": "Ich habe einen besseren Vorschlag.",
+    "exampleMeaning": "I have a better suggestion.",
+    "activityName": "B1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Erfahrung",
+    "meaning": "Experience",
+    "exampleSentence": "Er hat viel Erfahrung in seinem Beruf.",
+    "exampleMeaning": "He has a lot of experience in his profession.",
+    "activityName": "B1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Vorteil",
+    "meaning": "Advantage",
+    "exampleSentence": "Ein Vorteil des Autos ist die Flexibilität.",
+    "exampleMeaning": "An advantage of the car is its flexibility.",
+    "activityName": "B1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Nachteil",
+    "meaning": "Disadvantage",
+    "exampleSentence": "Ein Nachteil des Internets ist die Ablenkung.",
+    "exampleMeaning": "A disadvantage of the internet is distraction.",
+    "activityName": "B1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Verhalten",
+    "meaning": "Behavior",
+    "exampleSentence": "Sein Verhalten war vorbildlich.",
+    "exampleMeaning": "His behavior was exemplary.",
+    "activityName": "B1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Verantwortung",
+    "meaning": "Responsibility",
+    "exampleSentence": "Eltern tragen Verantwortung für ihre Kinder.",
+    "exampleMeaning": "Parents bear responsibility for their children.",
+    "activityName": "B1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Erfolg",
+    "meaning": "Success",
+    "exampleSentence": "Ihr neues Buch war ein großer Erfolg.",
+    "exampleMeaning": "Her new book was a great success.",
+    "activityName": "B1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Herausforderung",
+    "meaning": "Challenge",
+    "exampleSentence": "Das Projekt war eine große Herausforderung.",
+    "exampleMeaning": "The project was a big challenge.",
+    "activityName": "B1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Einfluss",
+    "meaning": "Influence",
+    "exampleSentence": "Eltern haben einen großen Einfluss auf ihre Kinder.",
+    "exampleMeaning": "Parents have a big influence on their children.",
+    "activityName": "B1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Meinung",
+    "meaning": "Opinion",
+    "exampleSentence": "Ich respektiere deine Meinung.",
+    "exampleMeaning": "I respect your opinion.",
+    "activityName": "B1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Ausbildung",
+    "meaning": "Education",
+    "exampleSentence": "Er hat eine gute Ausbildung erhalten.",
+    "exampleMeaning": "He received a good education.",
+    "activityName": "B1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Gefühl",
+    "meaning": "Feeling",
+    "exampleSentence": "Ich habe ein gutes Gefühl dabei.",
+    "exampleMeaning": "I have a good feeling about it.",
+    "activityName": "B1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Gedanke",
+    "meaning": "Thought",
+    "exampleSentence": "Der Gedanke kam mir plötzlich.",
+    "exampleMeaning": "The thought suddenly occurred to me.",
+    "activityName": "B1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Gelegenheit",
+    "meaning": "Opportunity",
+    "exampleSentence": "Ich hatte keine Gelegenheit, ihn zu fragen.",
+    "exampleMeaning": "I had no opportunity to ask him.",
+    "activityName": "B1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Entwicklung",
+    "meaning": "Development",
+    "exampleSentence": "Die Entwicklung der Technologie ist beeindruckend.",
+    "exampleMeaning": "The development of technology is impressive.",
+    "activityName": "B1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Beitrag",
+    "meaning": "Contribution",
+    "exampleSentence": "Er leistete einen wichtigen Beitrag zum Erfolg.",
+    "exampleMeaning": "He made an important contribution to the success.",
+    "activityName": "B1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Ergebnis",
+    "meaning": "Result",
+    "exampleSentence": "Das Ergebnis war besser als erwartet.",
+    "exampleMeaning": "The result was better than expected.",
+    "activityName": "B1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Lösung",
+    "meaning": "Solution",
+    "exampleSentence": "Hast du eine Lösung für das Problem?",
+    "exampleMeaning": "Do you have a solution to the problem?",
+    "activityName": "B1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Gesellschaft",
+    "meaning": "Society",
+    "exampleSentence": "Unsere Gesellschaft verändert sich schnell.",
+    "exampleMeaning": "Our society is changing quickly.",
+    "activityName": "B1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Zustimmung",
+    "meaning": "Approval",
+    "exampleSentence": "Er gab seine Zustimmung zum Plan.",
+    "exampleMeaning": "He gave his approval for the plan.",
+    "activityName": "B1_1VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },{
+  "germanWord": "der Zweifel",
+  "meaning": "Doubt",
+  "exampleSentence": "Er äußerte seinen Zweifel an der Entscheidung.",
+  "exampleMeaning": "He expressed his doubt about the decision.",
+  "activityName": "B1_1VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},{
+  "germanWord": "der Antrag",
+  "meaning": "Application",
+  "exampleSentence": "Der Antrag wurde gestern eingereicht.",
+  "exampleMeaning": "The application was submitted yesterday.",
+  "activityName": "B1_2VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+},
+  {
+    "germanWord": "die Erlaubnis",
+    "meaning": "Permission",
+    "exampleSentence": "Ich brauche deine Erlaubnis dafür.",
+    "exampleMeaning": "I need your permission for that.",
+    "activityName": "B1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Verhältnis",
+    "meaning": "Relationship",
+    "exampleSentence": "Ihr Verhältnis ist sehr kompliziert.",
+    "exampleMeaning": "Their relationship is very complicated.",
+    "activityName": "B1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Bericht",
+    "meaning": "Report",
+    "exampleSentence": "Der Bericht muss bis morgen fertig sein.",
+    "exampleMeaning": "The report must be finished by tomorrow.",
+    "activityName": "B1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Ursache",
+    "meaning": "Cause",
+    "exampleSentence": "Die genaue Ursache ist noch unklar.",
+    "exampleMeaning": "The exact cause is still unclear.",
+    "activityName": "B1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Voraussetzung",
+    "meaning": "Requirement",
+    "exampleSentence": "Eine Voraussetzung ist gute Deutschkenntnis.",
+    "exampleMeaning": "A requirement is good knowledge of German.",
+    "activityName": "B1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Verständnis",
+    "meaning": "Understanding",
+    "exampleSentence": "Ich habe kein Verständnis für so ein Verhalten.",
+    "exampleMeaning": "I have no understanding for such behavior.",
+    "activityName": "B1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Leistung",
+    "meaning": "Performance",
+    "exampleSentence": "Ihre Leistung war beeindruckend.",
+    "exampleMeaning": "Her performance was impressive.",
+    "activityName": "B1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Risiko",
+    "meaning": "Risk",
+    "exampleSentence": "Er ist bereit, ein Risiko einzugehen.",
+    "exampleMeaning": "He is willing to take a risk.",
+    "activityName": "B1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Zugang",
+    "meaning": "Access",
+    "exampleSentence": "Der Zugang ist nur mit Ausweis möglich.",
+    "exampleMeaning": "Access is only possible with ID.",
+    "activityName": "B1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Angebot",
+    "meaning": "Offer",
+    "exampleSentence": "Das Angebot ist gültig bis Freitag.",
+    "exampleMeaning": "The offer is valid until Friday.",
+    "activityName": "B1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Bedingung",
+    "meaning": "Condition",
+    "exampleSentence": "Die Bedingungen sind nicht akzeptabel.",
+    "exampleMeaning": "The conditions are not acceptable.",
+    "activityName": "B1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Vertrauen",
+    "meaning": "Trust",
+    "exampleSentence": "Sie haben großes Vertrauen in ihn.",
+    "exampleMeaning": "They have great trust in him.",
+    "activityName": "B1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Abhängigkeit",
+    "meaning": "Dependency",
+    "exampleSentence": "Die Abhängigkeit von Technologie wächst.",
+    "exampleMeaning": "Dependency on technology is growing.",
+    "activityName": "B1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "der Verlust",
+    "meaning": "Loss",
+    "exampleSentence": "Der Verlust seines Jobs war ein Schock.",
+    "exampleMeaning": "The loss of his job was a shock.",
+    "activityName": "B1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Genehmigung",
+    "meaning": "Approval",
+    "exampleSentence": "Für das Projekt brauchen wir eine Genehmigung.",
+    "exampleMeaning": "We need approval for the project.",
+    "activityName": "B1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Absicht",
+    "meaning": "Intention",
+    "exampleSentence": "Es war nicht meine Absicht, dich zu verletzen.",
+    "exampleMeaning": "It was not my intention to hurt you.",
+    "activityName": "B1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Zeugnis",
+    "meaning": "Certificate",
+    "exampleSentence": "Er hat ein gutes Zeugnis bekommen.",
+    "exampleMeaning": "He received a good certificate.",
+    "activityName": "B1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Konsequenz",
+    "meaning": "Consequence",
+    "exampleSentence": "Jede Handlung hat eine Konsequenz.",
+    "exampleMeaning": "Every action has a consequence.",
+    "activityName": "B1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Möglichkeit",
+    "meaning": "Possibility",
+    "exampleSentence": "Es gibt viele Möglichkeiten zur Weiterbildung.",
+    "exampleMeaning": "There are many possibilities for further education.",
+    "activityName": "B1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Wahl",
+    "meaning": "Choice",
+    "exampleSentence": "Die Wahl des richtigen Studiums ist wichtig.",
+    "exampleMeaning": "The choice of the right field of study is important.",
+    "activityName": "B1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Unterstützung",
+    "meaning": "Support",
+    "exampleSentence": "Wir danken Ihnen für Ihre Unterstützung.",
+    "exampleMeaning": "We thank you for your support.",
+    "activityName": "B1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "das Einkommen",
+    "meaning": "Income",
+    "exampleSentence": "Sein monatliches Einkommen reicht kaum aus.",
+    "exampleMeaning": "His monthly income is hardly enough.",
+    "activityName": "B1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },
+  {
+    "germanWord": "die Änderung",
+    "meaning": "Change",
+    "exampleSentence": "Die Änderung des Plans war notwendig.",
+    "exampleMeaning": "The change of the plan was necessary.",
+    "activityName": "B1_2VocabActivity",
+    "isKnown": false,
+    "unlearned": true
+  },{
+  "germanWord": "der Hinweis",
+  "meaning": "Clue",
+  "exampleSentence": "Der Detektiv fand einen wichtigen Hinweis.",
+  "exampleMeaning": "The detective found an important clue.",
+  "activityName": "B1_2VocabActivity",
+  "isKnown": false,
+  "unlearned": true
+}
+]

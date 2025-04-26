@@ -1,10 +1,11 @@
 package com.minovative.sprax;
 import androidx.room.ColumnInfo;
 import androidx.room.Entity;
+import androidx.room.Index;
 import androidx.room.PrimaryKey;
 
-@Entity(tableName = "words")
-public class Word {
+@Entity(tableName = "words", indices = {@Index(value = {"german_word"}, unique = true)})
+public class Word  {
     @PrimaryKey(autoGenerate = true)
     private int id;
     @ColumnInfo(name = "german_word")
@@ -15,21 +16,18 @@ public class Word {
     private String exampleSentence;
     @ColumnInfo(name = "example_meaning")
     private String exampleMeaning;
-//    private String imgPath;
-//    private String audioPath;
     private boolean isKnown;
     private boolean unlearned;
     @ColumnInfo(name = "activity_name")
     private String activityName;
 
-    public Word(String germanWord, String meaning, String exampleSentence, String exampleMeaning) {
+    public Word(String germanWord, String meaning, String exampleSentence, String exampleMeaning, String activityName) {
+
         this.germanWord = germanWord;
         this.meaning = meaning;
         this.exampleSentence = exampleSentence;
         this.exampleMeaning = exampleMeaning;
-//        this.imgPath = imgPath;
-//        this.audioPath = audioPath;
-        isKnown = false;
+        this.activityName = activityName;
     }
 
     public int getId() {
@@ -71,22 +69,6 @@ public class Word {
     public void setExampleMeaning(String exampleMeaning) {
         this.exampleMeaning = exampleMeaning;
     }
-    //
-//    public String getImgPath() {
-//        return imgPath;
-//    }
-//
-//    public void setImgPath(String imgPath) {
-//        this.imgPath = imgPath;
-//    }
-//
-//    public String getAudioPath() {
-//        return audioPath;
-//    }
-//
-//    public void setAudioPath(String audioPath) {
-//        this.audioPath = audioPath;
-//    }
 
     public boolean isKnown() {
         return isKnown;

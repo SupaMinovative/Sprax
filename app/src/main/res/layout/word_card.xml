@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#4FC3F7"
+    android:background="#00b8d4"
     android:orientation="vertical">
 
     <androidx.cardview.widget.CardView
@@ -14,14 +14,11 @@
         android:layout_marginStart="55dp"
         android:layout_marginTop="55dp"
         android:layout_marginEnd="55dp"
-        android:layout_marginBottom="55dp"
-        app:cardBackgroundColor="#E1F5FE"
-        app:layout_constraintBottom_toTopOf="@+id/imageButton3"
+        app:cardBackgroundColor="#E0F7FA"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.5">
+        app:layout_constraintTop_toTopOf="parent">
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
@@ -44,25 +41,13 @@
                 android:id="@+id/vocabFlip"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="35dp"
+                android:layout_marginStart="25dp"
                 android:layout_marginTop="65dp"
-                android:layout_marginEnd="60dp"
+                android:layout_marginEnd="45dp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toEndOf="@+id/vocabulary"
                 app:layout_constraintTop_toBottomOf="@+id/wordCount"
                 app:srcCompat="@drawable/ic_rotate" />
-
-            <ImageView
-                android:id="@+id/audioButton"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="60dp"
-                android:layout_marginTop="65dp"
-                android:layout_marginEnd="35dp"
-                app:layout_constraintEnd_toStartOf="@+id/vocabulary"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/wordCount"
-                app:srcCompat="@drawable/ic_audio" />
 
             <TextView
                 android:id="@+id/wordCount"
@@ -84,8 +69,8 @@
                 android:layout_marginTop="50dp"
                 android:layout_marginEnd="50dp"
                 android:layout_marginBottom="55dp"
-                android:paddingStart="30dp"
-                android:paddingEnd="30dp"
+                android:paddingStart="45dp"
+                android:paddingEnd="45dp"
                 android:text="sentence"
                 android:textAlignment="center"
                 android:textSize="20sp"

@@ -5,6 +5,7 @@
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
+        android:enableOnBackInvokedCallback="true"
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -13,10 +14,49 @@
         android:theme="@style/Theme.Sprax"
         tools:targetApi="31">
         <activity
-            android:name=".unlearnedWord"
+            android:name=".B1_2VocabActivity"
             android:exported="false" />
         <activity
-            android:name=".A1_1VocabularyActivity"
+            android:name=".B1_1VocabActivity"
+            android:exported="false" />
+        <activity
+            android:name=".A2_4VocabActivity"
+            android:exported="false" />
+        <activity
+            android:name=".A2_3VocabActivity"
+            android:exported="false" />
+        <activity
+            android:name=".A2_2VocabActivity"
+            android:exported="false" />
+        <activity
+            android:name=".A2_1VocabActivity"
+            android:exported="false" />
+        <activity
+            android:name=".A1_6VocabActivity"
+            android:exported="false" />
+        <activity
+            android:name=".A1_5VocabActivity"
+            android:exported="false" />
+        <activity
+            android:name=".A1_4VocabActivity"
+            android:exported="false" />
+        <activity
+            android:name=".A1_3VocabActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LearnedWordsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".A1_2VocabActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SummaryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".A1_1VocabActivity"
+            android:exported="false" />
+        <activity
+            android:name=".QuizActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
