@@ -1,4 +1,4 @@
-📚 Sprax - Vocabulary Learning App
+Sprax - Vocabulary Learning App
 
 <p align="center"> <img src="screenshots/sprax_main.png" alt="Main Screen" width="300"/> </p>
 Sprax is an Android app designed to help German learners practice vocabulary with a fun, interactive guessing game. Lessons are categorized by levels (A1–B1), and the app features progression tracking, quick review, and gradual learning — all within a clean, simple UI.
@@ -7,26 +7,25 @@ This project showcases my journey into mobile development, applying theoretical 
 
 ✨ Features
 
-Vocabulary Lessons
-Learn German words in a flashcard style with meanings and example sentences.
+Vocabulary Lessons - Learn German words in a flashcard style with meanings and example sentences.
+
+Progress Tracking - Track your known and unlearned words, with the option to reset lessons for further practice.
 
 <p align="center"> <img src="screenshots/flashcard.png" alt="Flashcard Screen" width="300"/> </p>
-Guessing Quiz
-Strengthen vocabulary retention through a fun and interactive guessing game.
+
+Guessing Quiz - Strengthen vocabulary retention through a fun and interactive guessing game.
 
 <p align="center"> <img src="screenshots/quiz.png" alt="Quiz Screen" width="300"/> </p>
-Summary View
-Quickly review the words you’ve learned during each session.
+
+Summary View - Quickly review the words you’ve learned from each session.
 
 <p align="center"> <img src="screenshots/words_learned_summary.png" alt="Summary Screen" width="300"/> </p>
-Progress Tracking
-Track your known and unlearned words, with the option to reset lessons for further practice.
+ 
 
-Room Database Integration
-Store vocabulary locally, enabling offline access and persistent progress tracking.
+Room Database Integration - Store vocabulary locally, enabling offline access and persistent progress tracking.
 
-Clean and Modular Codebase
-Activities, adapters, and database operations are organized for maintainability and scalability.
+Clean and Modular Codebase - Activities, adapters, and database operations are organized for maintainability and scalability.
+
 
 🛠️ Technologies Used
 
