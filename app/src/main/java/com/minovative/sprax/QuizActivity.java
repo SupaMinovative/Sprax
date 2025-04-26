@@ -227,7 +227,7 @@ public class QuizActivity extends AppCompatActivity {
                 }
 
                 currentWord = wordToGuess.get(wordCounter);
-                guessingWord = new GuessingWord(currentWord.getGermanWord());
+                guessingWord = new GuessingWord(currentWord.getGermanWord().substring(4));
 
                 if (!isFinishing() && !isDestroyed()) {
 
