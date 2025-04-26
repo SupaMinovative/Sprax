@@ -48,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
 
         NavigationView navigationView = findViewById(R.id.navigation_view);
         Drawable navIcon = ContextCompat.getDrawable(this, R.drawable.ic_menu);
+        assert navIcon != null;
         navIcon.setTint(ContextCompat.getColor(this, R.color.white));
 
         toolbar.setNavigationIcon(navIcon);

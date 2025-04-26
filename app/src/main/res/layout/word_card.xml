@@ -14,7 +14,7 @@
         android:layout_marginStart="55dp"
         android:layout_marginTop="55dp"
         android:layout_marginEnd="55dp"
-        app:cardBackgroundColor="#E0F7FA"
+        app:cardBackgroundColor="#E3F2FD"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
@@ -22,27 +22,29 @@
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="60dp">
 
             <TextView
                 android:id="@+id/vocabulary"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="60dp"
+                android:layout_marginTop="68dp"
                 android:text="Vocab"
-                android:textSize="22sp"
+                android:textSize="24sp"
                 android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintHorizontal_bias="0.495"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/wordCount" />
 
             <ImageView
                 android:id="@+id/vocabFlip"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
                 android:layout_marginStart="25dp"
-                android:layout_marginTop="65dp"
+                android:layout_marginTop="70dp"
                 android:layout_marginEnd="45dp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toEndOf="@+id/vocabulary"
@@ -53,11 +55,10 @@
                 android:id="@+id/wordCount"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="55dp"
-                android:textSize="18sp"
+                android:layout_marginTop="110dp"
+                android:textSize="20sp"
                 android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.5"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
 
@@ -73,9 +74,10 @@
                 android:paddingEnd="45dp"
                 android:text="sentence"
                 android:textAlignment="center"
-                android:textSize="20sp"
+                android:textSize="22sp"
                 app:layout_constraintBottom_toTopOf="@+id/sentenceFlip"
                 app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.483"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/vocabulary" />
 
@@ -83,29 +85,36 @@
                 android:id="@+id/check"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginEnd="40dp"
-                android:layout_marginBottom="170dp"
+                android:layout_marginStart="40dp"
+                android:layout_marginTop="110dp"
+                android:layout_marginEnd="55dp"
+                android:layout_marginBottom="155dp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/cancel"
+                app:layout_constraintTop_toBottomOf="@+id/exampleSentence"
                 app:srcCompat="@drawable/ic_checkmark" />
 
             <ImageView
                 android:id="@+id/cancel"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:layout_marginStart="60dp"
-                android:layout_marginBottom="170dp"
+                android:layout_marginStart="55dp"
+                android:layout_marginTop="110dp"
+                android:layout_marginEnd="40dp"
+                android:layout_marginBottom="155dp"
                 app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toStartOf="@+id/check"
                 app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/exampleSentence"
                 app:srcCompat="@drawable/ic_cancel" />
 
             <ImageView
                 android:id="@+id/sentenceFlip"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="30dp"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginTop="24dp"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.5"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/exampleSentence"
                 app:srcCompat="@drawable/ic_rotate" />

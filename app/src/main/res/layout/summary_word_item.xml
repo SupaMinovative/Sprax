@@ -8,13 +8,13 @@
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#E1F5FE">
+        android:background="#E3F2FD">
 
         <TextView
             android:id="@+id/summaryText"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#E1F5FE"
+            android:background="#E3F2FD"
             android:isScrollContainer="false"
             android:padding="10dp"
             android:textAlignment="center"
