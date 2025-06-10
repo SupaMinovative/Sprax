@@ -1,49 +1,50 @@
-Sprax - Vocabulary Learning App
+## Sprax - Vocabulary Learning App
 
 <p align="center"> <img src="screenshots/sprax_main.png" alt="Main Screen" width="300"/> </p>
-Sprax is an Android app designed to help German learners practice vocabulary with a fun, interactive guessing game. Lessons are categorized by levels (A1–B1), and the app features progression tracking, quick review, and gradual learning — all within a clean, simple UI.
 
-This project showcases my journey into mobile development, applying theoretical knowledge into real-world app development.
+**Sprax** is an Android app designed to help German learners practice vocabulary with a fun, interactive guessing game. Lessons are categorized by levels (A1–B1), and the app features progression tracking, quick review, and gradual learning — all within a clean, simple UI.
 
-✨ Features
+**This project showcases my journey into mobile development, applying theoretical knowledge into real-world app development.**
 
-Vocabulary Lessons - Learn German words in a flashcard style with meanings and example sentences.
+## ✨ Features
 
-Progress Tracking - Track your known and unlearned words, with the option to reset lessons for further practice.
+**Vocabulary Lessons** - Learn German words in a flashcard style with meanings and example sentences.
+
+**Progress Tracking** - Track your known and unlearned words, with the option to reset lessons for further practice.
 
 <p align="center"> <img src="screenshots/flashcard.png" alt="Flashcard Screen" width="300"/> </p>
 
-Guessing Quiz - Strengthen vocabulary retention through a fun and interactive guessing game.
+**Guessing Quiz** - Strengthen vocabulary retention through a fun and interactive guessing game.
 
 <p align="center"> <img src="screenshots/quiz.png" alt="Quiz Screen" width="300"/> </p>
 
-Summary View - Quickly review the words you’ve learned from each session.
+**Summary View** - Quickly review the words you’ve learned from each session.
 
 <p align="center"> <img src="screenshots/words_learned_summary.png" alt="Summary Screen" width="300"/> </p>
  
 
-Room Database Integration - Store vocabulary locally, enabling offline access and persistent progress tracking.
+**Room Database Integration** - Store vocabulary locally, enabling offline access and persistent progress tracking.
 
-Clean and Modular Codebase - Activities, adapters, and database operations are organized for maintainability and scalability.
+**Clean and Modular Codebase** - Activities, adapters, and database operations are organized for maintainability and scalability.
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
-Java — Core application logic
+**Java** — Core application logic
 
-Android Studio — Development environment
+**Android Studio** — Development environment
 
-RecyclerView — Displaying dynamic lists
+**RecyclerView** — Displaying dynamic lists
 
-Room Database — Local storage for vocabulary and progress
+**Room Database** — Local storage for vocabulary and progress
 
-Gson — Parsing JSON data for vocabulary
+**Gson** — Parsing JSON data for vocabulary
 
-Multi-threading — Managing background tasks and UI updates
+**Multi-threading** — Managing background tasks and UI updates
 
-Material Design — Simple, user-friendly interface
+**Material Design** — Simple, user-friendly interface
 
-💡 How I Built It
+## 💡 How I Built It
 
 This project was developed as part of my Android learning journey, combining:
 
@@ -55,7 +56,7 @@ Help from community knowledge (e.g., StackOverflow, AI assistants)
 
 It also builds upon my experience creating a German learning website, expanding my Java knowledge to mobile development.
 
-📈 Future Improvements
+## 📈 Future Improvements
 
 Multiple-choice quizzes
 
@@ -63,7 +64,7 @@ Multiple-choice quizzes
 
 Pronunciation audio using MediaPlayer
 
-📖 What I Learned
+## 📖 What I Learned
 
 Connecting activities using Intents
 
@@ -77,7 +78,7 @@ Updating the UI safely from background threads
 
 Structuring code for scalability and readability
 
-📂 Project Status
+## 📂 Project Status
 
 This project is a completed showcase of my early Android development skills. I’m moving on to new projects to further expand my portfolio.
 
