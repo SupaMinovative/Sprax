@@ -3,8 +3,12 @@ package com.minovative.sprax;
 import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.drawable.Drawable;
-import android.os.Bundle; 
-import android.widget.TextView;
+import android.os.Bundle;
+import android.view.View;
+import android.view.animation.Animation;
+import android.view.animation.CycleInterpolator;
+import android.view.animation.TranslateAnimation;
+import android.widget.ImageView;
 
 import androidx.appcompat.widget.Toolbar;
 
@@ -13,27 +17,23 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
 import com.google.android.material.navigation.NavigationView;
+
+import java.util.ArrayList;
+import java.util.List;
 
 
 public class MainActivity extends AppCompatActivity {
 
-    TextView a1Part1;
-    TextView a1Part2;
-    TextView a1Part3;
-    TextView a1Part4;
-    TextView a1Part5;
-    TextView a1Part6;
-    TextView a2Part1;
-    TextView a2Part2;
-    TextView a2Part3;
-    TextView a2Part4;
-    TextView b1Part1;
-    TextView b1Part2;
     Toolbar toolbar;
     private DrawerLayout drawerLayout;
-
+    private RecyclerView recyclerView;
+    private LevelCardAdapter levelCardAdapter;
+    private ImageView swipeBtn;
+    private List<Level> levelList = new ArrayList<>();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -59,87 +59,50 @@ public class MainActivity extends AppCompatActivity {
         });
 
         navigationView.setNavigationItemSelectedListener(item -> {
-            if (item.getItemId() == R.id.menu_item_1) {
 
+            if (item.getItemId() == R.id.menu_item_1) {
                 Intent intent = new Intent(MainActivity.this, LearnedWordsActivity.class);
                 startActivity(intent);
-
             }
 
             if (item.getItemId() == R.id.menu_item_2) {
 
                 Intent intent = new Intent(MainActivity.this, QuizActivity.class);
                 startActivity(intent);
-
             }
             return true;
         });
 
+        swipeBtn = findViewById(R.id.swipeBtn);
+        recyclerView = findViewById(R.id.levelRecyclerView);
+        levelCardAdapter = new LevelCardAdapter(levelList, recyclerView, this);
+        recyclerView.setLayoutManager(new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false));
+        recyclerView.setAdapter(levelCardAdapter);
 
-        a1Part1 = findViewById(R.id.a1Part1);
+        shakeButton(swipeBtn);
 
-        startVocabActivity(a1Part1, "A1_1VocabActivity");
-
-        a1Part2 = findViewById(R.id.a1Part2);
-
-        startVocabActivity(a1Part2, "A1_2VocabActivity");
-
-        a1Part3 = findViewById(R.id.a1Part3);
-
-        startVocabActivity(a1Part3, "A1_3VocabActivity");
-
-        a1Part4 = findViewById(R.id.a1Part4);
-
-        startVocabActivity(a1Part4, "A1_4VocabActivity");
-
-        a1Part5 = findViewById(R.id.a1Part5);
-
-        startVocabActivity(a1Part5, "A1_5VocabActivity");
-
-        a1Part6 = findViewById(R.id.a1Part6);
-
-        startVocabActivity(a1Part6, "A1_6VocabActivity");
-
-        a2Part1 = findViewById(R.id.a2Part1);
-
-        startVocabActivity(a2Part1, "A2_1VocabActivity");
-
-        a2Part2 = findViewById(R.id.a2Part2);
-
-        startVocabActivity(a2Part2, "A2_2VocabActivity");
-
-        a2Part3 = findViewById(R.id.a2Part3);
-
-        startVocabActivity(a2Part3, "A2_3VocabActivity");
-        a2Part4 = findViewById(R.id.a2Part4);
-
-        startVocabActivity(a2Part4, "A2_4VocabActivity");
-        b1Part1 = findViewById(R.id.b1Part1);
-
-        startVocabActivity(b1Part1, "B1_1VocabActivity");
-        b1Part2 = findViewById(R.id.b1Part2);
-
-        startVocabActivity(b1Part2, "B1_2VocabActivity");
+        levelList.add(new Level("A1.1","A1_1VocabActivity", "Beginner"));
+        levelList.add(new Level("A1.2", "A1_2VocabActivity", "Beginner"));
+        levelList.add(new Level("A1.3", "A1_3VocabActivity", "Beginner"));
+        levelList.add(new Level("A1.4", "A1_4VocabActivity", "Beginner"));
+        levelList.add(new Level("A1.5", "A1_5VocabActivity", "Beginner"));
+        levelList.add(new Level("A1.6", "A1_6VocabActivity", "Beginner"));
+        levelList.add(new Level("A2.1", "A2_1VocabActivity", "Beginner"));
+        levelList.add(new Level("A2.2", "A2_2VocabActivity", "Beginner"));
+        levelList.add(new Level("A2.3", "A2_3VocabActivity", "Beginner"));
+        levelList.add(new Level("A2.4", "A2_4VocabActivity", "Beginner"));
+        levelList.add(new Level("B1.1", "B1_1VocabActivity", "Beginner"));
+        levelList.add(new Level("B1.2", "B1_2VocabActivity", "Beginner"));
 
     }
 
-    private void startVocabActivity(TextView activityId, String activityClassName) {
+    public static void shakeButton(View view) {
+        Animation shake = new TranslateAnimation(-300,120,0,0);
+        shake.setDuration(15_000);
 
-        activityId.setOnClickListener(view -> {
-
-            Class<?> activityClass = null;
-
-            try {
-
-                activityClass = Class.forName("com.minovative.sprax." + activityClassName);
-
-            } catch (ClassNotFoundException e) {
-
-                throw new RuntimeException(e);
-            }
-
-            Intent intent = new Intent(MainActivity.this, activityClass);
-            startActivity(intent);
-        });
-    }
+        shake.setInterpolator(new CycleInterpolator(5));
+        shake.setRepeatMode(Animation.RESTART);
+        shake.setRepeatCount(Animation.INFINITE);
+        view.startAnimation(shake);
+    };
 }

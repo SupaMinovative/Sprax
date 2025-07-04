@@ -38,6 +38,7 @@ public class A1_1VocabActivity extends AppCompatActivity implements FlashcardAda
         flashcardAdapter = new FlashcardAdapter(wordList, recyclerView, this);
         recyclerView.setLayoutManager(new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false));
         recyclerView.setAdapter(flashcardAdapter);
+
         loadJsonAndInsert();
 
     }

@@ -24,7 +24,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="40dp"
-                android:background="#FF8A65"
+                android:background="#FFB300"
                 android:padding="15dp"
                 android:textAlignment="center"
                 android:textColor="@color/white"
