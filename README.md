@@ -1,6 +1,6 @@
 ## Sprax - Vocabulary Learning App
 
-<p align="center"> <img src="screenshots/sprax_main.png" alt="Main Screen" width="300"/> </p>
+<p align="center"> <img src="screenshots/sprax_nav.gif" alt="Main Screen" width="400"/> </p>
 
 **Sprax** is an Android app designed to help German learners practice vocabulary with a fun, interactive guessing game. Lessons are categorized by levels (A1–B1), and the app features progression tracking, quick review, and gradual learning — all within a clean, simple UI.
 
