@@ -12,7 +12,7 @@
 
 **Progress Tracking** - Track your known and unlearned words, with the option to reset lessons for further practice.
 
-<p align="center"> <img src="screenshots/flashcard.png" alt="Flashcard Screen" width="300"/> </p>
+<p align="center"> <img src="screenshots/flash_card.png" alt="Flashcard Screen" width="400"/> </p>
 
 **Guessing Quiz** - Strengthen vocabulary retention through a fun and interactive guessing game.
 
