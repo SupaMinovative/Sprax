@@ -1,6 +1,8 @@
 package com.minovative.sprax;
 
+
 import android.content.Context;
+import android.media.MediaPlayer;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -17,17 +19,14 @@ public class FlashcardAdapter extends RecyclerView.Adapter<FlashcardAdapter.Flas
     private List<Word> wordList;
     private RecyclerView recyclerView;
     private OnFlashcardCompletionListener listener;
-    private String activityName;
-    private Context context;
+    private Context activityContext;
 
 
-    public FlashcardAdapter(List<Word> wordList, RecyclerView recyclerView, OnFlashcardCompletionListener listener) {
+    public FlashcardAdapter(List<Word> wordList, RecyclerView recyclerView, OnFlashcardCompletionListener listener, Context activityContext) {
         this.wordList = wordList;
         this.recyclerView = recyclerView;
 
-        if (context instanceof AppCompatActivity) {
-        this.activityName = ((AppCompatActivity) context).getLocalClassName();
-        }
+        this.activityContext = activityContext;
 
         this.listener = listener;
     }
@@ -50,6 +49,14 @@ public class FlashcardAdapter extends RecyclerView.Adapter<FlashcardAdapter.Flas
     public void onBindViewHolder(@NonNull FlashcardViewHolder holder, int position) {
 
         Word currentWord = wordList.get(position);
+        int imageResId = activityContext.getResources().getIdentifier(currentWord.getImgPath(), "drawable", activityContext.getPackageName());
+        int audioResId = activityContext.getResources().getIdentifier(currentWord.getAudioPath(), "raw", activityContext.getPackageName());
+        holder.wordImg.setImageResource(imageResId);
+
+        MediaPlayer mediaPlayer = MediaPlayer.create(activityContext, audioResId);
+
+        holder.audioBtn.setOnClickListener(view -> {mediaPlayer.start();});
+
         holder.wordCount.setText("Word " + (position + 1));
         holder.vocabulary.setText(currentWord.getGermanWord());
         holder.exampleSentence.setText(currentWord.getExampleSentence());
@@ -122,7 +129,7 @@ public class FlashcardAdapter extends RecyclerView.Adapter<FlashcardAdapter.Flas
 
         new Thread(() -> {
             try {
-                AppDatabase db = AppDatabase.getInstance(context);
+                AppDatabase db = AppDatabase.getInstance(activityContext);
                 WordDao wordDao = db.wordDao();
 
                 wordDao.insert(word);
@@ -147,6 +154,8 @@ public class FlashcardAdapter extends RecyclerView.Adapter<FlashcardAdapter.Flas
         ImageView sentenceFlip;
         ImageView check;
         ImageView cancel;
+        ImageView wordImg;
+        ImageView audioBtn;
 
         public FlashcardViewHolder(@NonNull View itemView) {
 
@@ -159,6 +168,9 @@ public class FlashcardAdapter extends RecyclerView.Adapter<FlashcardAdapter.Flas
             sentenceFlip = itemView.findViewById(R.id.sentenceFlip);
             check = itemView.findViewById(R.id.check);
             cancel = itemView.findViewById(R.id.cancel);
+            wordImg = itemView.findViewById(R.id.wordImg);
+            audioBtn = itemView.findViewById(R.id.audioBtn);
+
         }
     }
 

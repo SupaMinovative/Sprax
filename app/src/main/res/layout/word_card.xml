@@ -4,17 +4,17 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#00b8d4"
+    android:background="#e3f2fd"
     android:orientation="vertical">
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_marginStart="55dp"
-        android:layout_marginTop="80dp"
-        android:layout_marginEnd="55dp"
-        android:layout_marginBottom="80dp"
-        app:cardBackgroundColor="#E3F2FD"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="100dp"
+        app:cardBackgroundColor="#fdfde7"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
@@ -23,7 +23,7 @@
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
             tools:layout_editor_absoluteX="0dp"
             tools:layout_editor_absoluteY="60dp">
 
@@ -31,33 +31,33 @@
                 android:id="@+id/vocabulary"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="68dp"
+                android:layout_marginTop="40dp"
                 android:text="Vocab"
+                android:textColor="#1976d2"
                 android:textSize="24sp"
                 android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.495"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/wordCount" />
+                app:layout_constraintTop_toBottomOf="@+id/wordImg" />
 
             <ImageView
                 android:id="@+id/vocabFlip"
                 android:layout_width="30dp"
                 android:layout_height="30dp"
-                android:layout_marginStart="25dp"
-                android:layout_marginTop="70dp"
-                android:layout_marginEnd="45dp"
+                android:layout_marginTop="290dp"
+                android:layout_marginEnd="25dp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toEndOf="@+id/vocabulary"
-                app:layout_constraintTop_toBottomOf="@+id/wordCount"
+                app:layout_constraintTop_toTopOf="parent"
                 app:srcCompat="@drawable/ic_rotate" />
 
             <TextView
                 android:id="@+id/wordCount"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="110dp"
-                android:textSize="20sp"
+                android:layout_marginTop="50dp"
+                android:text="word"
+                android:textSize="22sp"
                 android:textStyle="bold"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
@@ -68,9 +68,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="50dp"
-                android:layout_marginTop="50dp"
+                android:layout_marginTop="60dp"
                 android:layout_marginEnd="50dp"
-                android:layout_marginBottom="55dp"
+                android:layout_marginBottom="80dp"
                 android:paddingStart="45dp"
                 android:paddingEnd="45dp"
                 android:text="sentence"
@@ -89,7 +89,7 @@
                 android:layout_marginStart="40dp"
                 android:layout_marginTop="110dp"
                 android:layout_marginEnd="55dp"
-                android:layout_marginBottom="155dp"
+                android:layout_marginBottom="120dp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toEndOf="@+id/cancel"
@@ -103,7 +103,7 @@
                 android:layout_marginStart="55dp"
                 android:layout_marginTop="110dp"
                 android:layout_marginEnd="40dp"
-                android:layout_marginBottom="155dp"
+                android:layout_marginBottom="120dp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toStartOf="@+id/check"
                 app:layout_constraintStart_toStartOf="parent"
@@ -119,6 +119,28 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/exampleSentence"
                 app:srcCompat="@drawable/ic_rotate" />
+
+            <ImageView
+                android:id="@+id/wordImg"
+                android:layout_width="145dp"
+                android:layout_height="145dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginBottom="25dp"
+                app:layout_constraintBottom_toTopOf="@+id/vocabulary"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/wordCount"
+                app:srcCompat="@drawable/img_icon" />
+
+            <ImageView
+                android:id="@+id/audioBtn"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginTop="290dp"
+                android:layout_marginEnd="25dp"
+                app:layout_constraintEnd_toStartOf="@+id/vocabulary"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/audio_icon" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
 

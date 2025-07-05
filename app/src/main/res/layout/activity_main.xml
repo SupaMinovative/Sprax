@@ -20,24 +20,24 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="30dp"
-            android:background="#f57c00"
+            android:background="#1976d2"
             android:minHeight="?attr/actionBarSize"
             android:theme="?attr/actionBarTheme"
             android:titleTextColor="@color/white" />
+
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/levelRecyclerView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:background="#e0f7fa" />
-
+            android:background="#e3f2fd" />
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom|center"
-            android:background="#e0f7fa"
+            android:background="#e3f2fd"
             android:orientation="vertical"
             android:visibility="visible">
 

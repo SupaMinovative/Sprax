@@ -37,7 +37,7 @@ public class LevelCardAdapter extends RecyclerView.Adapter<LevelCardAdapter.Leve
     public void onBindViewHolder(@NonNull LevelCardViewHolder holder,int position) {
         Level currentLevel = levelList.get(position);
         holder.levelText.setText("Level " + currentLevel.getLevelName());
-        holder.levelDifficulty.setText(currentLevel.getLevelDif() + " : 25 words");
+        holder.levelDifficulty.setText(currentLevel.getLevelDif());
         startVocabActivity(holder.playBtn,currentLevel.getLevelClassName(),context);
 
     }

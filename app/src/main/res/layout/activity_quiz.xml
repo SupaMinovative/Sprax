@@ -5,7 +5,7 @@
     android:id="@+id/LinearLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#E3F2FD"
+    android:background="#e3f2fd"
     android:gravity="center"
     android:orientation="vertical"
     tools:context=".QuizActivity">
@@ -105,7 +105,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:backgroundTint="#00b8d4 "
+            android:backgroundTint="#4CAF50"
             android:gravity="center"
             android:paddingTop="10dp"
             android:paddingBottom="10dp"
@@ -121,7 +121,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|center"
         android:layout_marginBottom="25dp"
-        android:backgroundTint="#008094 "
+        android:backgroundTint="	#1976d2 "
         android:text="BACK"
         android:textSize="18sp"
         android:textStyle="bold" />

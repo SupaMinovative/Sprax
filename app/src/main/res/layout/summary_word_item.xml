@@ -14,7 +14,7 @@
             android:id="@+id/summaryText"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#E3F2FD"
+            android:background="#e3f2fd"
             android:isScrollContainer="false"
             android:padding="10dp"
             android:textAlignment="center"

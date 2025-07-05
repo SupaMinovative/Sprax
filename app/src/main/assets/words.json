@@ -6,7 +6,8 @@
     "exampleMeaning": "The apple is red.",
     "activityName": "A1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true,
+    "imgPath": "apple", "audioPath": "apple"
   },
   {
     "germanWord": "die Katze",
@@ -15,7 +16,7 @@
     "exampleMeaning": "The cat is sleeping on the sofa.",
     "activityName": "A1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "cat", "audioPath": "cat"
   },
   {
     "germanWord": "der Hund",
@@ -24,7 +25,7 @@
     "exampleMeaning": "The dog is running in the park.",
     "activityName": "A1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "dog", "audioPath": "dog"
   },
   {
     "germanWord": "das Haus",
@@ -33,7 +34,7 @@
     "exampleMeaning": "The house is big.",
     "activityName": "A1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "house", "audioPath": "house"
   },
   {
     "germanWord": "die Schule",
@@ -42,7 +43,7 @@
     "exampleMeaning": "The school starts at eight o'clock.",
     "activityName": "A1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "school", "audioPath": "school"
   },
   {
     "germanWord": "das Auto",
@@ -51,7 +52,7 @@
     "exampleMeaning": "The car is fast.",
     "activityName": "A1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "car", "audioPath": "car"
   },
   {
     "germanWord": "der Tisch",
@@ -60,61 +61,7 @@
     "exampleMeaning": "The table is made of wood.",
     "activityName": "A1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
-  },
-  {
-    "germanWord": "der Stuhl",
-    "meaning": "Chair",
-    "exampleSentence": "Der Stuhl ist bequem.",
-    "exampleMeaning": "The chair is comfortable.",
-    "activityName": "A1_1VocabActivity",
-    "isKnown": false,
-    "unlearned": true
-  },
-  {
-    "germanWord": "der Freund",
-    "meaning": "Friend",
-    "exampleSentence": "Mein Freund ist sehr nett.",
-    "exampleMeaning": "My friend is very nice.",
-    "activityName": "A1_1VocabActivity",
-    "isKnown": false,
-    "unlearned": true
-  },
-  {
-    "germanWord": "die Freundin",
-    "meaning": "Girlfriend",
-    "exampleSentence": "Meine Freundin spielt Tennis.",
-    "exampleMeaning": "My girlfriend plays tennis.",
-    "activityName": "A1_1VocabActivity",
-    "isKnown": false,
-    "unlearned": true
-  },
-  {
-    "germanWord": "das Buch",
-    "meaning": "Book",
-    "exampleSentence": "Ich lese ein Buch.",
-    "exampleMeaning": "I am reading a book.",
-    "activityName": "A1_1VocabActivity",
-    "isKnown": false,
-    "unlearned": true
-  },
-  {
-    "germanWord": "die Stadt",
-    "meaning": "City",
-    "exampleSentence": "Die Stadt ist schön.",
-    "exampleMeaning": "The city is beautiful.",
-    "activityName": "A1_1VocabActivity",
-    "isKnown": false,
-    "unlearned": true
-  },
-  {
-    "germanWord": "das Zimmer",
-    "meaning": "Room",
-    "exampleSentence": "Das Zimmer ist klein, aber gemütlich.",
-    "exampleMeaning": "The room is small but cozy.",
-    "activityName": "A1_1VocabActivity",
-    "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "table", "audioPath": "table"
   },
   {
     "germanWord": "die Tür",
@@ -123,16 +70,7 @@
     "exampleMeaning": "The door is closed.",
     "activityName": "A1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
-  },
-  {
-    "germanWord": "der Topf",
-    "meaning": "pot",
-    "exampleSentence": "Der Topf steht auf dem Herd.",
-    "exampleMeaning": "The pot is on the stove.",
-    "activityName": "A1_1VocabActivity",
-    "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "door", "audioPath": "door"
   },
   {
     "germanWord": "das Brot",
@@ -141,62 +79,9 @@
     "exampleMeaning": "I eat bread for breakfast.",
     "activityName": "A1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "bread" ,"audioPath": "bread"
   },
-  {
-    "germanWord": "die Hand",
-    "meaning": "Hand",
-    "exampleSentence": "Meine Hand tut weh.",
-    "exampleMeaning": "My hand hurts.",
-    "activityName": "A1_1VocabActivity",
-    "isKnown": false,
-    "unlearned": true
-  },
-  {
-    "germanWord": "der Name",
-    "meaning": "Name",
-    "exampleSentence": "Wie ist dein Name?",
-    "exampleMeaning": "What is your name?",
-    "activityName": "A1_1VocabActivity",
-    "isKnown": false,
-    "unlearned": true
-  },
-  {
-    "germanWord": "die Mutter",
-    "meaning": "Mother",
-    "exampleSentence": "Meine Mutter ist Lehrerin.",
-    "exampleMeaning": "My mother is a teacher.",
-    "activityName": "A1_1VocabActivity",
-    "isKnown": false,
-    "unlearned": true
-  },
-  {
-    "germanWord": "der Vater",
-    "meaning": "Father",
-    "exampleSentence": "Mein Vater arbeitet im Büro.",
-    "exampleMeaning": "My father works in the office.",
-    "activityName": "A1_1VocabActivity",
-    "isKnown": false,
-    "unlearned": true
-  },
-  {
-    "germanWord": "das Wasser",
-    "meaning": "Water",
-    "exampleSentence": "Das Wasser ist kalt.",
-    "exampleMeaning": "The water is cold.",
-    "activityName": "A1_1VocabActivity",
-    "isKnown": false,
-    "unlearned": true
-  },
-  {
-    "germanWord": "der Tag",
-    "meaning": "Day",
-    "exampleSentence": "Der Tag ist schön.",
-    "exampleMeaning": "The day is beautiful.",
-    "activityName": "A1_1VocabActivity",
-    "isKnown": false,
-    "unlearned": true
-  },
+
   {
     "germanWord": "die Uhr",
     "meaning": "Clock",
@@ -204,25 +89,7 @@
     "exampleMeaning": "The clock shows five o'clock.",
     "activityName": "A1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
-  },
-  {
-    "germanWord": "der Lehrer",
-    "meaning": "Teacher",
-    "exampleSentence": "Der Lehrer spricht Englisch.",
-    "exampleMeaning": "The teacher speaks English.",
-    "activityName": "A1_1VocabActivity",
-    "isKnown": false,
-    "unlearned": true
-  },
-  {
-    "germanWord": "die Arbeit",
-    "meaning": "Work",
-    "exampleSentence": "Die Arbeit ist schwer.",
-    "exampleMeaning": "The work is hard.",
-    "activityName": "A1_1VocabActivity",
-    "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "clock", "audioPath": "clock"
   },
   {
     "germanWord": "die Lampe",
@@ -231,7 +98,7 @@
     "exampleMeaning": "The lamp is on the table.",
     "activityName": "A1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Computer",
@@ -240,7 +107,7 @@
     "exampleMeaning": "I work on the computer.",
     "activityName": "A1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Handy",
@@ -249,7 +116,7 @@
     "exampleMeaning": "My mobile phone is new.",
     "activityName": "A1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Stift",
@@ -258,7 +125,7 @@
     "exampleMeaning": "The pen is lying on the book.",
     "activityName": "A1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Heft",
@@ -267,7 +134,7 @@
     "exampleMeaning": "I write in my notebook.",
     "activityName": "A1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Flasche",
@@ -276,7 +143,7 @@
     "exampleMeaning": "The bottle is empty.",
     "activityName": "A1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Licht",
@@ -285,7 +152,7 @@
     "exampleMeaning": "Please turn on the light.",
     "activityName": "A1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Fenster",
@@ -294,7 +161,7 @@
     "exampleMeaning": "I open the window.",
     "activityName": "A1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Bleistift",
@@ -303,7 +170,7 @@
     "exampleMeaning": "I draw with a pencil.",
     "activityName": "A1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Bus",
@@ -312,7 +179,7 @@
     "exampleMeaning": "The bus arrives at 8 o’clock.",
     "activityName": "A1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Papier",
@@ -321,7 +188,7 @@
     "exampleMeaning": "I need paper for writing.",
     "activityName": "A1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Tasche",
@@ -330,7 +197,7 @@
     "exampleMeaning": "My bag is heavy.",
     "activityName": "A1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Brille",
@@ -339,7 +206,7 @@
     "exampleMeaning": "I wear glasses.",
     "activityName": "A1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Schrank",
@@ -348,7 +215,7 @@
     "exampleMeaning": "The cupboard is full.",
     "activityName": "A1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Bett",
@@ -357,7 +224,7 @@
     "exampleMeaning": "I am lying in bed.",
     "activityName": "A1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Wand",
@@ -366,7 +233,7 @@
     "exampleMeaning": "A picture is hanging on the wall.",
     "activityName": "A1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Boden",
@@ -375,7 +242,7 @@
     "exampleMeaning": "The floor is clean.",
     "activityName": "A1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Bild",
@@ -384,7 +251,7 @@
     "exampleMeaning": "The picture is beautiful.",
     "activityName": "A1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Tasse",
@@ -393,7 +260,7 @@
     "exampleMeaning": "I drink coffee from the cup.",
     "activityName": "A1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Löffel",
@@ -402,7 +269,7 @@
     "exampleMeaning": "The spoon is next to the plate.",
     "activityName": "A1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Gabel",
@@ -411,7 +278,7 @@
     "exampleMeaning": "Where is the fork?",
     "activityName": "A1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Messer",
@@ -420,7 +287,7 @@
     "exampleMeaning": "I cut with the knife.",
     "activityName": "A1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Teller",
@@ -429,7 +296,7 @@
     "exampleMeaning": "The plate is empty.",
     "activityName": "A1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Glas",
@@ -438,7 +305,7 @@
     "exampleMeaning": "I drink water from the glass.",
     "activityName": "A1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Kühlschrank",
@@ -447,7 +314,7 @@
     "exampleMeaning": "The fridge is full.",
     "activityName": "A1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },{
   "germanWord": "die Straße",
   "meaning": "Street",
@@ -455,7 +322,7 @@
   "exampleMeaning": "The street is long.",
   "activityName": "A1_3VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },
   {
     "germanWord": "die Brücke",
@@ -464,7 +331,7 @@
     "exampleMeaning": "We walk over the bridge.",
     "activityName": "A1_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Zug",
@@ -473,7 +340,7 @@
     "exampleMeaning": "The train is delayed.",
     "activityName": "A1_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Bahn",
@@ -482,7 +349,7 @@
     "exampleMeaning": "I travel by railway.",
     "activityName": "A1_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Fahrrad",
@@ -491,7 +358,7 @@
     "exampleMeaning": "I like to ride my bicycle.",
     "activityName": "A1_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Taxi",
@@ -500,7 +367,7 @@
     "exampleMeaning": "We take a taxi.",
     "activityName": "A1_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Fahrer",
@@ -509,7 +376,7 @@
     "exampleMeaning": "The driver is friendly.",
     "activityName": "A1_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Ampel",
@@ -518,7 +385,7 @@
     "exampleMeaning": "The traffic light is red.",
     "activityName": "A1_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Flughafen",
@@ -527,7 +394,7 @@
     "exampleMeaning": "We’re going to the airport.",
     "activityName": "A1_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Flugzeug",
@@ -536,7 +403,7 @@
     "exampleMeaning": "The airplane lands on time.",
     "activityName": "A1_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Ticket",
@@ -545,7 +412,7 @@
     "exampleMeaning": "I lost my ticket.",
     "activityName": "A1_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Fahrkarte",
@@ -554,7 +421,7 @@
     "exampleMeaning": "Where do I buy a travel ticket?",
     "activityName": "A1_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Gleis",
@@ -563,7 +430,7 @@
     "exampleMeaning": "The train departs from platform 3.",
     "activityName": "A1_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Bahnhof",
@@ -572,7 +439,7 @@
     "exampleMeaning": "I’ll meet you at the train station.",
     "activityName": "A1_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Haltestelle",
@@ -581,7 +448,7 @@
     "exampleMeaning": "The next stop is here.",
     "activityName": "A1_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Weg",
@@ -590,7 +457,7 @@
     "exampleMeaning": "The path is short.",
     "activityName": "A1_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Richtung",
@@ -599,7 +466,7 @@
     "exampleMeaning": "Go in this direction.",
     "activityName": "A1_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Karte",
@@ -608,7 +475,7 @@
     "exampleMeaning": "I look at the map.",
     "activityName": "A1_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Kreuzung",
@@ -617,7 +484,7 @@
     "exampleMeaning": "Turn right at the intersection.",
     "activityName": "A1_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Verkehr",
@@ -626,7 +493,7 @@
     "exampleMeaning": "Traffic is heavy today.",
     "activityName": "A1_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Ziel",
@@ -635,7 +502,7 @@
     "exampleMeaning": "My destination is Berlin.",
     "activityName": "A1_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Navi",
@@ -644,7 +511,7 @@
     "exampleMeaning": "I use the GPS.",
     "activityName": "A1_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Plan",
@@ -653,7 +520,7 @@
     "exampleMeaning": "We are making a plan.",
     "activityName": "A1_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Wohnung",
@@ -662,7 +529,7 @@
     "exampleMeaning": "I have a nice apartment.",
     "activityName": "A1_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Küche",
@@ -671,7 +538,7 @@
     "exampleMeaning": "The kitchen is modern.",
     "activityName": "A1_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Bad",
@@ -680,7 +547,7 @@
     "exampleMeaning": "The bathroom is clean.",
     "activityName": "A1_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Wohnzimmer",
@@ -689,7 +556,7 @@
     "exampleMeaning": "We are sitting in the living room.",
     "activityName": "A1_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Schlafzimmer",
@@ -698,7 +565,7 @@
     "exampleMeaning": "The bedroom is cozy.",
     "activityName": "A1_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Teppich",
@@ -707,7 +574,7 @@
     "exampleMeaning": "The carpet is colorful.",
     "activityName": "A1_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Regal",
@@ -716,7 +583,7 @@
     "exampleMeaning": "Books are on the shelf.",
     "activityName": "A1_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },{
   "germanWord": "die Treppe",
   "meaning": "Stairs",
@@ -724,7 +591,7 @@
   "exampleMeaning": "I go up the stairs.",
   "activityName": "A1_4VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },
   {
     "germanWord": "der Balkon",
@@ -733,7 +600,7 @@
     "exampleMeaning": "We’re sitting on the balcony.",
     "activityName": "A1_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Garten",
@@ -742,7 +609,7 @@
     "exampleMeaning": "The garden is green.",
     "activityName": "A1_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Miete",
@@ -751,7 +618,7 @@
     "exampleMeaning": "The rent is high.",
     "activityName": "A1_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Adresse",
@@ -760,7 +627,7 @@
     "exampleMeaning": "What is your address?",
     "activityName": "A1_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Dach",
@@ -769,7 +636,7 @@
     "exampleMeaning": "The roof is new.",
     "activityName": "A1_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Heizung",
@@ -778,7 +645,7 @@
     "exampleMeaning": "The heating is off.",
     "activityName": "A1_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Steckdose",
@@ -787,7 +654,7 @@
     "exampleMeaning": "The power outlet is behind the sofa.",
     "activityName": "A1_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },{
   "germanWord": "die Post",
   "meaning": "Post office",
@@ -795,7 +662,7 @@
   "exampleMeaning": "I’m going to the post office.",
   "activityName": "A1_4VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },{
   "germanWord": "der Supermarkt",
   "meaning": "Supermarket",
@@ -803,7 +670,7 @@
   "exampleMeaning": "I’m going to the supermarket.",
   "activityName": "A1_4VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },{
   "germanWord": "die Apotheke",
   "meaning": "Pharmacy",
@@ -811,7 +678,7 @@
   "exampleMeaning": "The pharmacy is next to the supermarket.",
   "activityName": "A1_4VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },{
   "germanWord": "das Restaurant",
   "meaning": "Restaurant",
@@ -819,7 +686,7 @@
   "exampleMeaning": "The restaurant is expensive.",
   "activityName": "A1_4VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },
   {
     "germanWord": "die Bibliothek",
@@ -828,7 +695,7 @@
     "exampleMeaning": "The library is quiet.",
     "activityName": "A1_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Kino",
@@ -837,7 +704,7 @@
     "exampleMeaning": "We are going to the cinema.",
     "activityName": "A1_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Park",
@@ -846,7 +713,7 @@
     "exampleMeaning": "I am taking a walk in the park.",
     "activityName": "A1_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Hotel",
@@ -855,7 +722,7 @@
     "exampleMeaning": "The hotel is very nice.",
     "activityName": "A1_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Laden",
@@ -864,7 +731,7 @@
     "exampleMeaning": "The shop is around the corner.",
     "activityName": "A1_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Tankstelle",
@@ -873,7 +740,7 @@
     "exampleMeaning": "The gas station is on the right.",
     "activityName": "A1_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Kirche",
@@ -882,7 +749,7 @@
     "exampleMeaning": "The church is old.",
     "activityName": "A1_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Krankenhaus",
@@ -891,7 +758,7 @@
     "exampleMeaning": "The hospital is far away.",
     "activityName": "A1_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },{
   "germanWord": "der Fernseher",
   "meaning": "Television",
@@ -899,7 +766,7 @@
   "exampleMeaning": "The television is on.",
   "activityName": "A1_5VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },{
   "germanWord": "die Orange",
   "meaning": "Orange",
@@ -907,7 +774,7 @@
   "exampleMeaning": "The orange is sweet.",
   "activityName": "A1_5VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },{
   "germanWord": "die Banane",
   "meaning": "Banana",
@@ -915,7 +782,7 @@
   "exampleMeaning": "The banana is yellow.",
   "activityName": "A1_5VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },
   {
     "germanWord": "die Tomate",
@@ -924,7 +791,7 @@
     "exampleMeaning": "The tomato is red.",
     "activityName": "A1_5VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Karotte",
@@ -933,7 +800,7 @@
     "exampleMeaning": "The carrot is orange.",
     "activityName": "A1_5VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Kartoffel",
@@ -942,7 +809,7 @@
     "exampleMeaning": "The potato is brown.",
     "activityName": "A1_5VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },{
   "germanWord": "der Schlüssel",
   "meaning": "Key",
@@ -950,7 +817,7 @@
   "exampleMeaning": "I lost the key.",
   "activityName": "A1_5VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },
   {
     "germanWord": "der Schuh",
@@ -959,7 +826,7 @@
     "exampleMeaning": "The shoe is new.",
     "activityName": "A1_5VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Jacke",
@@ -968,7 +835,7 @@
     "exampleMeaning": "The jacket is warm.",
     "activityName": "A1_5VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },{
   "germanWord": "die Zeitung",
   "meaning": "Newspaper",
@@ -976,7 +843,7 @@
   "exampleMeaning": "I read the newspaper.",
   "activityName": "A1_5VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },
   {
     "germanWord": "der Laptop",
@@ -985,7 +852,7 @@
     "exampleMeaning": "The laptop is very expensive.",
     "activityName": "A1_5VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Kamera",
@@ -994,7 +861,7 @@
     "exampleMeaning": "The camera is broken.",
     "activityName": "A1_5VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Mülleimer",
@@ -1003,7 +870,7 @@
     "exampleMeaning": "The garbage can is full.",
     "activityName": "A1_5VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },{
   "germanWord": "die Blume",
   "meaning": "Flower",
@@ -1011,7 +878,7 @@
   "exampleMeaning": "The flower is beautiful.",
   "activityName": "A1_5VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },
   {
     "germanWord": "der Baum",
@@ -1020,7 +887,7 @@
     "exampleMeaning": "The tree is tall.",
     "activityName": "A1_5VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Gras",
@@ -1029,7 +896,7 @@
     "exampleMeaning": "The grass is green.",
     "activityName": "A1_5VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Vogel",
@@ -1038,7 +905,7 @@
     "exampleMeaning": "The bird is singing.",
     "activityName": "A1_5VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Maus",
@@ -1047,7 +914,7 @@
     "exampleMeaning": "The mouse is small.",
     "activityName": "A1_5VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Pferd",
@@ -1056,7 +923,7 @@
     "exampleMeaning": "The horse runs fast.",
     "activityName": "A1_5VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Kuh",
@@ -1065,7 +932,7 @@
     "exampleMeaning": "The cow gives milk.",
     "activityName": "A1_5VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Schwein",
@@ -1074,7 +941,7 @@
     "exampleMeaning": "The pig is pink.",
     "activityName": "A1_5VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Fisch",
@@ -1083,7 +950,7 @@
     "exampleMeaning": "The fish swims in the water.",
     "activityName": "A1_5VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Land",
@@ -1092,7 +959,7 @@
     "exampleMeaning": "I come from another country.",
     "activityName": "A1_5VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Dorf",
@@ -1101,7 +968,7 @@
     "exampleMeaning": "The village is very small.",
     "activityName": "A1_5VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der See",
@@ -1110,7 +977,7 @@
     "exampleMeaning": "The lake is calm.",
     "activityName": "A1_5VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Fluss",
@@ -1119,7 +986,7 @@
     "exampleMeaning": "The river flows fast.",
     "activityName": "A1_6VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Berg",
@@ -1128,7 +995,7 @@
     "exampleMeaning": "The mountain is high.",
     "activityName": "A1_6VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Wald",
@@ -1137,7 +1004,7 @@
     "exampleMeaning": "The forest is dark.",
     "activityName": "A1_6VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Strand",
@@ -1146,7 +1013,7 @@
     "exampleMeaning": "The beach is beautiful.",
     "activityName": "A1_6VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Insel",
@@ -1155,7 +1022,7 @@
     "exampleMeaning": "The island is far away.",
     "activityName": "A1_6VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Meer",
@@ -1164,7 +1031,7 @@
     "exampleMeaning": "The sea is blue.",
     "activityName": "A1_6VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Universität",
@@ -1173,7 +1040,7 @@
     "exampleMeaning": "The university is far away.",
     "activityName": "A1_6VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Büro",
@@ -1182,7 +1049,7 @@
     "exampleMeaning": "I work in the office.",
     "activityName": "A1_6VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Bank",
@@ -1191,7 +1058,7 @@
     "exampleMeaning": "The bank is closed.",
     "activityName": "A1_6VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Geschäft",
@@ -1200,7 +1067,7 @@
     "exampleMeaning": "The store has many products.",
     "activityName": "A1_6VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },{
   "germanWord": "das Café",
   "meaning": "Café",
@@ -1208,7 +1075,7 @@
   "exampleMeaning": "We drink coffee at the café.",
   "activityName": "A1_6VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },
   {
     "germanWord": "das Museum",
@@ -1217,7 +1084,7 @@
     "exampleMeaning": "The museum is interesting.",
     "activityName": "A1_6VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Theater",
@@ -1226,7 +1093,7 @@
     "exampleMeaning": "The theater has a new play.",
     "activityName": "A1_6VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Oper",
@@ -1235,7 +1102,7 @@
     "exampleMeaning": "I am going to the opera.",
     "activityName": "A1_6VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Zoo",
@@ -1244,7 +1111,7 @@
     "exampleMeaning": "The zoo is very interesting.",
     "activityName": "A1_6VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Bar",
@@ -1253,7 +1120,7 @@
     "exampleMeaning": "We are going to the bar.",
     "activityName": "A1_6VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Disco",
@@ -1262,7 +1129,7 @@
     "exampleMeaning": "The disco is very loud.",
     "activityName": "A1_6VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Mikrowelle",
@@ -1271,7 +1138,7 @@
     "exampleMeaning": "The microwave is broken.",
     "activityName": "A1_6VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Herd",
@@ -1280,7 +1147,7 @@
     "exampleMeaning": "The stove is very hot.",
     "activityName": "A1_6VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Waschmaschine",
@@ -1289,7 +1156,7 @@
     "exampleMeaning": "The washing machine doesn't work.",
     "activityName": "A1_6VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Staubsauger",
@@ -1298,7 +1165,7 @@
     "exampleMeaning": "The vacuum cleaner is loud.",
     "activityName": "A1_6VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Dusche",
@@ -1307,7 +1174,7 @@
     "exampleMeaning": "The shower is very clean.",
     "activityName": "A1_6VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },{
   "germanWord": "die Decke",
   "meaning": "Ceiling",
@@ -1315,7 +1182,7 @@
   "exampleMeaning": "The ceiling is high.",
   "activityName": "A1_6VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },{
   "germanWord": "der Wasserkocher",
   "meaning": "Kettle",
@@ -1323,7 +1190,7 @@
   "exampleMeaning": "The kettle is on.",
   "activityName": "A1_6VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },
   {
     "germanWord": "die Zahnbürste",
@@ -1332,7 +1199,7 @@
     "exampleMeaning": "The toothbrush is in the bathroom.",
     "activityName": "A1_6VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Handtuch",
@@ -1341,7 +1208,7 @@
     "exampleMeaning": "The towel is dry.",
     "activityName": "A1_6VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Spiegel",
@@ -1350,7 +1217,7 @@
     "exampleMeaning": "The mirror is big.",
     "activityName": "A1_6VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Aufgabe",
@@ -1359,7 +1226,7 @@
     "exampleMeaning": "The task is difficult.",
     "activityName": "A2_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Frage",
@@ -1368,7 +1235,7 @@
     "exampleMeaning": "Do you have a question?",
     "activityName": "A2_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },{
   "germanWord": "die Sprache",
   "meaning": "Language",
@@ -1376,7 +1243,7 @@
   "exampleMeaning": "The German language is interesting.",
   "activityName": "A2_1VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Stunde",
@@ -1385,7 +1252,7 @@
     "exampleMeaning": "The lesson is over.",
     "activityName": "A2_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Woche",
@@ -1394,7 +1261,7 @@
     "exampleMeaning": "I work five days a week.",
     "activityName": "A2_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Jahr",
@@ -1403,7 +1270,7 @@
     "exampleMeaning": "The year has 365 days.",
     "activityName": "A2_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Familie",
@@ -1412,7 +1279,7 @@
     "exampleMeaning": "My family is very large.",
     "activityName": "A2_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Essen",
@@ -1421,7 +1288,7 @@
     "exampleMeaning": "The food tastes very good.",
     "activityName": "A2_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Kunde",
@@ -1430,7 +1297,7 @@
     "exampleMeaning": "The customer is always friendly.",
     "activityName": "A2_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },{
   "germanWord": "die Telefonnummer",
   "meaning": "Phone number",
@@ -1438,7 +1305,7 @@
   "exampleMeaning": "Can you give me your phone number?",
   "activityName": "A2_1VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },
   {
     "germanWord": "der Monat",
@@ -1447,7 +1314,7 @@
     "exampleMeaning": "The month of April is very nice.",
     "activityName": "A2_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Antwort",
@@ -1456,7 +1323,7 @@
     "exampleMeaning": "The answer to the question is correct.",
     "activityName": "A2_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Reise",
@@ -1465,7 +1332,7 @@
     "exampleMeaning": "I am going on a long journey.",
     "activityName": "A2_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },{
   "germanWord": "das Kind",
   "meaning": "Child",
@@ -1473,7 +1340,7 @@
   "exampleMeaning": "The child is playing in the garden.",
   "activityName": "A2_1VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },{
   "germanWord": "der Sommer",
   "meaning": "Summer",
@@ -1481,7 +1348,7 @@
   "exampleMeaning": "It is often very hot in the summer.",
   "activityName": "A2_1VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 }, {
   "germanWord": "der Vogel",
   "meaning": "Bird",
@@ -1489,7 +1356,7 @@
   "exampleMeaning": "The bird flies high in the sky.",
   "activityName": "A2_1VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },
   {
     "germanWord": "der Ball",
@@ -1498,7 +1365,7 @@
     "exampleMeaning": "The ball is in the garden.",
     "activityName": "A2_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },{
   "germanWord": "die Erdbeere",
   "meaning": "Strawberry",
@@ -1506,7 +1373,7 @@
   "exampleMeaning": "The strawberries are fresh.",
   "activityName": "A2_1VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 }, {
   "germanWord": "die Kirsche",
   "meaning": "Cherry",
@@ -1514,7 +1381,7 @@
   "exampleMeaning": "The cherries are red.",
   "activityName": "A2_1VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 }, {
   "germanWord": "der Fisch",
   "meaning": "Fish",
@@ -1522,7 +1389,7 @@
   "exampleMeaning": "The fish is swimming in the water.",
   "activityName": "A2_1VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },
   {
     "germanWord": "das Gemüse",
@@ -1531,7 +1398,7 @@
     "exampleMeaning": "I like to eat vegetables.",
     "activityName": "A2_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Mantel",
@@ -1540,7 +1407,7 @@
     "exampleMeaning": "I wear a coat in winter.",
     "activityName": "A2_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Pullover",
@@ -1549,7 +1416,7 @@
     "exampleMeaning": "This sweater is too big.",
     "activityName": "A2_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   }, {
   "germanWord": "die Hose",
   "meaning": "Pants",
@@ -1557,7 +1424,7 @@
   "exampleMeaning": "The pants are too long.",
   "activityName": "A2_1VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },
   {
     "germanWord": "das Hemd",
@@ -1566,7 +1433,7 @@
     "exampleMeaning": "He is wearing a blue shirt.",
     "activityName": "A2_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Mütze",
@@ -1575,7 +1442,7 @@
     "exampleMeaning": "I wear a cap in winter.",
     "activityName": "A2_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Bluse",
@@ -1584,7 +1451,7 @@
     "exampleMeaning": "She is wearing an elegant blouse.",
     "activityName": "A2_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Rock",
@@ -1593,7 +1460,7 @@
     "exampleMeaning": "The skirt is very fashionable.",
     "activityName": "A2_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Hut",
@@ -1602,7 +1469,7 @@
     "exampleMeaning": "He is wearing a black hat.",
     "activityName": "A2_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Kleid",
@@ -1611,7 +1478,7 @@
     "exampleMeaning": "She is wearing a beautiful dress.",
     "activityName": "A2_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Strumpfhose",
@@ -1620,7 +1487,7 @@
     "exampleMeaning": "I wear tights in winter.",
     "activityName": "A2_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Geldbeutel",
@@ -1629,7 +1496,7 @@
     "exampleMeaning": "My wallet is empty.",
     "activityName": "A2_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Portemonnaie",
@@ -1638,7 +1505,7 @@
     "exampleMeaning": "My wallet is full.",
     "activityName": "A2_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Kalender",
@@ -1647,7 +1514,7 @@
     "exampleMeaning": "The calendar hangs on the wall in the office.",
     "activityName": "A2_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Jahreszeit",
@@ -1656,7 +1523,7 @@
     "exampleMeaning": "Spring is my favorite season.",
     "activityName": "A2_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Frühling",
@@ -1665,7 +1532,7 @@
     "exampleMeaning": "In spring, the flowers bloom.",
     "activityName": "A2_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Rechnung",
@@ -1674,7 +1541,7 @@
     "exampleMeaning": "Could I get the bill, please?",
     "activityName": "A2_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Rezept",
@@ -1683,7 +1550,7 @@
     "exampleMeaning": "This recipe is easy and delicious.",
     "activityName": "A2_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Termin",
@@ -1692,7 +1559,7 @@
     "exampleMeaning": "I have a dentist appointment tomorrow.",
     "activityName": "A2_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },{
   "germanWord": "die Unterkunft",
   "meaning": "Accommodation",
@@ -1700,7 +1567,7 @@
   "exampleMeaning": "We are looking for affordable accommodation.",
   "activityName": "A2_2VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },
   {
     "germanWord": "das Gehalt",
@@ -1709,7 +1576,7 @@
     "exampleMeaning": "He receives a good salary.",
     "activityName": "A2_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Bewerbung",
@@ -1718,7 +1585,7 @@
     "exampleMeaning": "I'm writing a job application.",
     "activityName": "A2_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },{
   "germanWord": "der Urlaub",
   "meaning": "Vacation",
@@ -1726,7 +1593,7 @@
   "exampleMeaning": "We are going on vacation to Italy in the summer.",
   "activityName": "A2_2VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },
   {
     "germanWord": "die Nachricht",
@@ -1735,7 +1602,7 @@
     "exampleMeaning": "I have a message for you.",
     "activityName": "A2_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Einladung",
@@ -1744,7 +1611,7 @@
     "exampleMeaning": "Thanks for the invitation to the party!",
     "activityName": "A2_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Geschenk",
@@ -1753,7 +1620,7 @@
     "exampleMeaning": "I have a gift for you.",
     "activityName": "A2_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Entscheidung",
@@ -1762,7 +1629,7 @@
     "exampleMeaning": "It was a difficult decision.",
     "activityName": "A2_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Bildschirm",
@@ -1771,7 +1638,7 @@
     "exampleMeaning": "The screen is too dark.",
     "activityName": "A2_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Kennwort",
@@ -1780,7 +1647,7 @@
     "exampleMeaning": "Please enter your password.",
     "activityName": "A2_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Abfahrt",
@@ -1789,7 +1656,7 @@
     "exampleMeaning": "The departure is at 8 in the morning.",
     "activityName": "A2_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Eingang",
@@ -1798,7 +1665,7 @@
     "exampleMeaning": "The entrance is on the left side.",
     "activityName": "A2_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Eintrittskarte",
@@ -1807,7 +1674,7 @@
     "exampleMeaning": "I have a ticket for the concert.",
     "activityName": "A2_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Festival",
@@ -1816,7 +1683,7 @@
     "exampleMeaning": "The festival starts on Friday.",
     "activityName": "A2_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Spaziergang",
@@ -1825,7 +1692,7 @@
     "exampleMeaning": "We are going for a walk in the forest.",
     "activityName": "A2_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Ausstellung",
@@ -1834,7 +1701,7 @@
     "exampleMeaning": "The exhibition displays modern art.",
     "activityName": "A2_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Eintritt",
@@ -1843,7 +1710,7 @@
     "exampleMeaning": "Admission is free today.",
     "activityName": "A2_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },{
   "germanWord": "die Ermäßigung",
   "meaning": "Discount",
@@ -1851,7 +1718,7 @@
   "exampleMeaning": "Is there a discount for students?",
   "activityName": "A2_3VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },
   {
     "germanWord": "die Veranstaltung",
@@ -1860,7 +1727,7 @@
     "exampleMeaning": "The event starts at eight o'clock.",
     "activityName": "A2_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Besucher",
@@ -1869,7 +1736,7 @@
     "exampleMeaning": "The visitors come from different countries.",
     "activityName": "A2_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Führung",
@@ -1878,7 +1745,7 @@
     "exampleMeaning": "The guided tour through the museum lasts one hour.",
     "activityName": "A2_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Konzert",
@@ -1887,7 +1754,7 @@
     "exampleMeaning": "The concert was really great.",
     "activityName": "A2_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Bühne",
@@ -1896,7 +1763,7 @@
     "exampleMeaning": "The singer is standing on the stage.",
     "activityName": "A2_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Zuschauer",
@@ -1905,7 +1772,7 @@
     "exampleMeaning": "The spectators are clapping loudly.",
     "activityName": "A2_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Eintrittszeit",
@@ -1914,7 +1781,7 @@
     "exampleMeaning": "The admission time is on the ticket.",
     "activityName": "A2_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Musik",
@@ -1923,7 +1790,7 @@
     "exampleMeaning": "I like listening to classical music.",
     "activityName": "A2_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },{
   "germanWord": "der Künstler",
   "meaning": "Artist",
@@ -1931,7 +1798,7 @@
   "exampleMeaning": "The artist is painting a new picture.",
   "activityName": "A2_3VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },
   {
     "germanWord": "der Vortrag",
@@ -1940,7 +1807,7 @@
     "exampleMeaning": "The lecture was very informative.",
     "activityName": "A2_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Programm",
@@ -1949,7 +1816,7 @@
     "exampleMeaning": "The program for today is very exciting.",
     "activityName": "A2_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Pause",
@@ -1958,7 +1825,7 @@
     "exampleMeaning": "We drink coffee during the break.",
     "activityName": "A2_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Applaus",
@@ -1967,7 +1834,7 @@
     "exampleMeaning": "There was a lot of applause at the end.",
     "activityName": "A2_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Student",
@@ -1976,7 +1843,7 @@
     "exampleMeaning": "The student is studying for the exam.",
     "activityName": "A2_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Prüfung",
@@ -1985,7 +1852,7 @@
     "exampleMeaning": "The exam is tomorrow.",
     "activityName": "A2_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },{
   "germanWord": "der Fehler",
   "meaning": "Mistake",
@@ -1993,7 +1860,7 @@
   "exampleMeaning": "The mistake was corrected quickly.",
   "activityName": "A2_3VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },
   {
     "germanWord": "die Note",
@@ -2002,7 +1869,7 @@
     "exampleMeaning": "I received a good grade in math.",
     "activityName": "A2_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Schüler",
@@ -2011,7 +1878,7 @@
     "exampleMeaning": "The pupil is writing an essay.",
     "activityName": "A2_3VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Rucksack",
@@ -2020,7 +1887,7 @@
     "exampleMeaning": "My backpack is heavy.",
     "activityName": "A2_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
 
   {
@@ -2030,7 +1897,7 @@
     "exampleMeaning": "The plant needs a lot of water.",
     "activityName": "A2_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Getränk",
@@ -2039,7 +1906,7 @@
     "exampleMeaning": "I am drinking a cold drink.",
     "activityName": "A2_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Kuchen",
@@ -2048,7 +1915,7 @@
     "exampleMeaning": "The cake is delicious.",
     "activityName": "A2_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Suppe",
@@ -2057,7 +1924,7 @@
     "exampleMeaning": "I am eating a hot soup.",
     "activityName": "A2_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Salat",
@@ -2066,7 +1933,7 @@
     "exampleMeaning": "I like eating a salad.",
     "activityName": "A2_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Ofen",
@@ -2075,7 +1942,7 @@
     "exampleMeaning": "The oven is very hot.",
     "activityName": "A2_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Sessel",
@@ -2084,7 +1951,7 @@
     "exampleMeaning": "I am sitting in the armchair and reading a book.",
     "activityName": "A2_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Sofa",
@@ -2093,7 +1960,7 @@
     "exampleMeaning": "The sofa is very comfortable.",
     "activityName": "A2_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Abfalleimer",
@@ -2102,7 +1969,7 @@
     "exampleMeaning": "The trash can is next to the door.",
     "activityName": "A2_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Toilette",
@@ -2111,7 +1978,7 @@
     "exampleMeaning": "The toilet is in the bathroom.",
     "activityName": "A2_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Tier",
@@ -2120,7 +1987,7 @@
     "exampleMeaning": "The animal lives in the forest.",
     "activityName": "A2_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Ecke",
@@ -2129,7 +1996,7 @@
     "exampleMeaning": "The sofa is in the corner.",
     "activityName": "A2_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Kleidung",
@@ -2138,7 +2005,7 @@
     "exampleMeaning": "The clothes are in the wardrobe.",
     "activityName": "A2_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },{
   "germanWord": "die Freundschaft",
   "meaning": "Friendship",
@@ -2146,7 +2013,7 @@
   "exampleMeaning": "Our friendship is very strong.",
   "activityName": "A2_4VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },
   {
     "germanWord": "die Wolke",
@@ -2155,7 +2022,7 @@
     "exampleMeaning": "The cloud is white.",
     "activityName": "A2_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Regen",
@@ -2164,7 +2031,7 @@
     "exampleMeaning": "The rain will stop soon.",
     "activityName": "A2_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Sonne",
@@ -2173,7 +2040,7 @@
     "exampleMeaning": "The sun is shining.",
     "activityName": "A2_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Wind",
@@ -2182,7 +2049,7 @@
     "exampleMeaning": "The wind is blowing strongly.",
     "activityName": "A2_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Temperatur",
@@ -2191,7 +2058,7 @@
     "exampleMeaning": "The temperature is very high.",
     "activityName": "A2_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Schnee",
@@ -2200,7 +2067,7 @@
     "exampleMeaning": "The snow covers the ground.",
     "activityName": "A2_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Autobahn",
@@ -2209,7 +2076,7 @@
     "exampleMeaning": "The highway is fast.",
     "activityName": "A2_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Internet",
@@ -2218,7 +2085,7 @@
     "exampleMeaning": "The internet is slow today.",
     "activityName": "A2_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Brief",
@@ -2227,7 +2094,7 @@
     "exampleMeaning": "The letter is for you.",
     "activityName": "A2_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Schere",
@@ -2236,7 +2103,7 @@
     "exampleMeaning": "The scissors are sharp.",
     "activityName": "A2_4VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Fortschritt",
@@ -2245,7 +2112,7 @@
     "exampleMeaning": "Technological progress changes the world.",
     "activityName": "B1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Umwelt",
@@ -2254,7 +2121,7 @@
     "exampleMeaning": "We must protect our environment.",
     "activityName": "B1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Eindruck",
@@ -2263,7 +2130,7 @@
     "exampleMeaning": "He made a good impression during the interview.",
     "activityName": "B1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Beziehung",
@@ -2272,7 +2139,7 @@
     "exampleMeaning": "Their relationship is very harmonious.",
     "activityName": "B1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Vorschlag",
@@ -2281,7 +2148,7 @@
     "exampleMeaning": "I have a better suggestion.",
     "activityName": "B1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Erfahrung",
@@ -2290,7 +2157,7 @@
     "exampleMeaning": "He has a lot of experience in his profession.",
     "activityName": "B1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Vorteil",
@@ -2299,7 +2166,7 @@
     "exampleMeaning": "An advantage of the car is its flexibility.",
     "activityName": "B1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Nachteil",
@@ -2308,7 +2175,7 @@
     "exampleMeaning": "A disadvantage of the internet is distraction.",
     "activityName": "B1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Verhalten",
@@ -2317,7 +2184,7 @@
     "exampleMeaning": "His behavior was exemplary.",
     "activityName": "B1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Verantwortung",
@@ -2326,7 +2193,7 @@
     "exampleMeaning": "Parents bear responsibility for their children.",
     "activityName": "B1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Erfolg",
@@ -2335,7 +2202,7 @@
     "exampleMeaning": "Her new book was a great success.",
     "activityName": "B1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Herausforderung",
@@ -2344,7 +2211,7 @@
     "exampleMeaning": "The project was a big challenge.",
     "activityName": "B1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Einfluss",
@@ -2353,7 +2220,7 @@
     "exampleMeaning": "Parents have a big influence on their children.",
     "activityName": "B1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Meinung",
@@ -2362,7 +2229,7 @@
     "exampleMeaning": "I respect your opinion.",
     "activityName": "B1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Ausbildung",
@@ -2371,7 +2238,7 @@
     "exampleMeaning": "He received a good education.",
     "activityName": "B1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Gefühl",
@@ -2380,7 +2247,7 @@
     "exampleMeaning": "I have a good feeling about it.",
     "activityName": "B1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Gedanke",
@@ -2389,7 +2256,7 @@
     "exampleMeaning": "The thought suddenly occurred to me.",
     "activityName": "B1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Gelegenheit",
@@ -2398,7 +2265,7 @@
     "exampleMeaning": "I had no opportunity to ask him.",
     "activityName": "B1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Entwicklung",
@@ -2407,7 +2274,7 @@
     "exampleMeaning": "The development of technology is impressive.",
     "activityName": "B1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Beitrag",
@@ -2416,7 +2283,7 @@
     "exampleMeaning": "He made an important contribution to the success.",
     "activityName": "B1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Ergebnis",
@@ -2425,7 +2292,7 @@
     "exampleMeaning": "The result was better than expected.",
     "activityName": "B1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Lösung",
@@ -2434,7 +2301,7 @@
     "exampleMeaning": "Do you have a solution to the problem?",
     "activityName": "B1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Gesellschaft",
@@ -2443,7 +2310,7 @@
     "exampleMeaning": "Our society is changing quickly.",
     "activityName": "B1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Zustimmung",
@@ -2452,7 +2319,7 @@
     "exampleMeaning": "He gave his approval for the plan.",
     "activityName": "B1_1VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },{
   "germanWord": "der Zweifel",
   "meaning": "Doubt",
@@ -2460,7 +2327,7 @@
   "exampleMeaning": "He expressed his doubt about the decision.",
   "activityName": "B1_1VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },{
   "germanWord": "der Antrag",
   "meaning": "Application",
@@ -2468,7 +2335,7 @@
   "exampleMeaning": "The application was submitted yesterday.",
   "activityName": "B1_2VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 },
   {
     "germanWord": "die Erlaubnis",
@@ -2477,7 +2344,7 @@
     "exampleMeaning": "I need your permission for that.",
     "activityName": "B1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Verhältnis",
@@ -2486,7 +2353,7 @@
     "exampleMeaning": "Their relationship is very complicated.",
     "activityName": "B1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Bericht",
@@ -2495,7 +2362,7 @@
     "exampleMeaning": "The report must be finished by tomorrow.",
     "activityName": "B1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Ursache",
@@ -2504,7 +2371,7 @@
     "exampleMeaning": "The exact cause is still unclear.",
     "activityName": "B1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Voraussetzung",
@@ -2513,7 +2380,7 @@
     "exampleMeaning": "A requirement is good knowledge of German.",
     "activityName": "B1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Verständnis",
@@ -2522,7 +2389,7 @@
     "exampleMeaning": "I have no understanding for such behavior.",
     "activityName": "B1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Leistung",
@@ -2531,7 +2398,7 @@
     "exampleMeaning": "Her performance was impressive.",
     "activityName": "B1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Risiko",
@@ -2540,7 +2407,7 @@
     "exampleMeaning": "He is willing to take a risk.",
     "activityName": "B1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Zugang",
@@ -2549,7 +2416,7 @@
     "exampleMeaning": "Access is only possible with ID.",
     "activityName": "B1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Angebot",
@@ -2558,7 +2425,7 @@
     "exampleMeaning": "The offer is valid until Friday.",
     "activityName": "B1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Bedingung",
@@ -2567,7 +2434,7 @@
     "exampleMeaning": "The conditions are not acceptable.",
     "activityName": "B1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Vertrauen",
@@ -2576,7 +2443,7 @@
     "exampleMeaning": "They have great trust in him.",
     "activityName": "B1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Abhängigkeit",
@@ -2585,7 +2452,7 @@
     "exampleMeaning": "Dependency on technology is growing.",
     "activityName": "B1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "der Verlust",
@@ -2594,7 +2461,7 @@
     "exampleMeaning": "The loss of his job was a shock.",
     "activityName": "B1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Genehmigung",
@@ -2603,7 +2470,7 @@
     "exampleMeaning": "We need approval for the project.",
     "activityName": "B1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Absicht",
@@ -2612,7 +2479,7 @@
     "exampleMeaning": "It was not my intention to hurt you.",
     "activityName": "B1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Zeugnis",
@@ -2621,7 +2488,7 @@
     "exampleMeaning": "He received a good certificate.",
     "activityName": "B1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Konsequenz",
@@ -2630,7 +2497,7 @@
     "exampleMeaning": "Every action has a consequence.",
     "activityName": "B1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Möglichkeit",
@@ -2639,7 +2506,7 @@
     "exampleMeaning": "There are many possibilities for further education.",
     "activityName": "B1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Wahl",
@@ -2648,7 +2515,7 @@
     "exampleMeaning": "The choice of the right field of study is important.",
     "activityName": "B1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Unterstützung",
@@ -2657,7 +2524,7 @@
     "exampleMeaning": "We thank you for your support.",
     "activityName": "B1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "das Einkommen",
@@ -2666,7 +2533,7 @@
     "exampleMeaning": "His monthly income is hardly enough.",
     "activityName": "B1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },
   {
     "germanWord": "die Änderung",
@@ -2675,7 +2542,7 @@
     "exampleMeaning": "The change of the plan was necessary.",
     "activityName": "B1_2VocabActivity",
     "isKnown": false,
-    "unlearned": true
+    "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
   },{
   "germanWord": "der Hinweis",
   "meaning": "Clue",
@@ -2683,6 +2550,6 @@
   "exampleMeaning": "The detective found an important clue.",
   "activityName": "B1_2VocabActivity",
   "isKnown": false,
-  "unlearned": true
+  "unlearned": true, "imgPath": "img_icon",  "audioPath": "example"
 }
 ]

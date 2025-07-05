@@ -21,13 +21,19 @@ public class Word  {
     @ColumnInfo(name = "activity_name")
     private String activityName;
 
-    public Word(String germanWord, String meaning, String exampleSentence, String exampleMeaning, String activityName) {
+    private String imgPath;
+    private String audioPath;
+
+    public Word(String germanWord, String meaning, String exampleSentence, String exampleMeaning,
+                String activityName, String imgPath, String audioPath) {
 
         this.germanWord = germanWord;
         this.meaning = meaning;
         this.exampleSentence = exampleSentence;
         this.exampleMeaning = exampleMeaning;
         this.activityName = activityName;
+        this.imgPath = imgPath;
+        this.audioPath = audioPath;
     }
 
     public int getId() {
@@ -92,5 +98,21 @@ public class Word  {
 
     public void setActivityName(String activityName) {
         this.activityName = activityName;
+    }
+
+    public String getImgPath( ) {
+        return imgPath;
+    }
+
+    public void setImgPath(String imgPath) {
+        this.imgPath = imgPath;
+    }
+
+    public String getAudioPath( ) {
+        return audioPath;
+    }
+
+    public void setAudioPath(String audioPath) {
+        this.audioPath = audioPath;
     }
 }

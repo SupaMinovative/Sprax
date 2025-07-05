@@ -35,7 +35,7 @@ public class A2_4VocabActivity extends AppCompatActivity implements FlashcardAda
         activityName = this.getLocalClassName();
         recyclerView = findViewById(R.id.recyclerView);
 
-        flashcardAdapter = new FlashcardAdapter(wordList, recyclerView, this);
+        flashcardAdapter = new FlashcardAdapter(wordList, recyclerView, this, this);
         recyclerView.setLayoutManager(new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false));
         recyclerView.setAdapter(flashcardAdapter);
         loadJsonAndInsert();

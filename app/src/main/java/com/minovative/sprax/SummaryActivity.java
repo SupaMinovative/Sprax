@@ -91,7 +91,7 @@ public class SummaryActivity extends AppCompatActivity{
                     unlearnedWordText.setVisibility(View.INVISIBLE);
                     resetButton.setVisibility(View.VISIBLE);
                     summaryResult.setVisibility(View.VISIBLE);
-                    summaryResult.setText("Congratulations! You have learned everything here!");
+                    summaryResult.setText("Well done! You have learned everything!");
 
                     resetButton.setOnClickListener(view -> {
 

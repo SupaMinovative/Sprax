@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#00b8d4"
+    android:background="	#1976d2"
     android:orientation="vertical">
 
     <TextView
@@ -30,7 +30,7 @@
         android:layout_marginTop="125dp"
         android:layout_marginEnd="55dp"
         android:layout_marginBottom="75dp"
-        app:cardBackgroundColor="#E3F2FD"
+        app:cardBackgroundColor="#e3f2fd"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -47,9 +47,9 @@
         android:id="@+id/backBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:backgroundTint="#E3F2FD"
+        android:backgroundTint="#e3f2fd"
         android:text="BACK"
-        android:textColor="#008094"
+        android:textColor="	#1976d2"
         android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"

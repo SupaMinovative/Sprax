@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_gravity="bottom"
-    android:background="#e0f7fa"
+    android:background="#e3f2fd"
     android:gravity="bottom|center"
     android:orientation="vertical">
 
@@ -17,7 +17,7 @@
         android:layout_marginLeft="15dp"
         android:layout_marginRight="15dp"
         android:layout_marginBottom="50dp"
-        android:backgroundTint="#f3f9ed">
+        android:backgroundTint="#fffde7">
 
         <TextView
             android:id="@+id/levelText"
