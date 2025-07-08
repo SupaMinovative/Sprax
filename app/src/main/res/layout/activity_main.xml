@@ -6,6 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_gravity="start"
+    android:background="#e3f2fd"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
@@ -20,11 +21,10 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="30dp"
-            android:background="#1976d2"
+            android:background="#2E7D32"
             android:minHeight="?attr/actionBarSize"
             android:theme="?attr/actionBarTheme"
             android:titleTextColor="@color/white" />
-
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/levelRecyclerView"
@@ -49,6 +49,7 @@
                 android:layout_marginTop="25dp"
                 android:layout_marginRight="25dp"
                 android:layout_marginBottom="100dp"
+                android:backgroundTint="#283593"
                 app:srcCompat="@drawable/swipe" />
         </LinearLayout>
 
