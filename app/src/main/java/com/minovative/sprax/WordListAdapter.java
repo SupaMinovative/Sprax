@@ -25,6 +25,7 @@ public class WordListAdapter extends ArrayAdapter<Word> {
     @Override
     public View getView(int position, View converView, ViewGroup parent) {
 
+
         if (converView == null) {
 
             LayoutInflater inflater = LayoutInflater.from(context);

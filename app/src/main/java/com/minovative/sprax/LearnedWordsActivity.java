@@ -1,5 +1,7 @@
 package com.minovative.sprax;
 
+import static com.minovative.sprax.MethodHelper.loadWordFromDB;
+
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.ListView;
@@ -7,14 +9,11 @@ import android.widget.TextView;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
-import java.util.List;
 
 public class LearnedWordsActivity extends AppCompatActivity {
 
     private ListView wordsListView;
-    private WordListAdapter adapter;
     private Button backButton;
-    private int wordsCount;
     private TextView wordCountDisplay;
 
     @Override
@@ -29,34 +28,9 @@ public class LearnedWordsActivity extends AppCompatActivity {
         wordCountDisplay = findViewById(R.id.wordCountDisplay);
 
         backButton.setOnClickListener(view -> {
-
             onBackPressed();
         });
-
-
-        new Thread(() -> {
-
-            AppDatabase db = AppDatabase.getInstance(this);
-            WordDao wordDao = db.wordDao();
-            List<Word> learnedWordsList = wordDao.getAllKnownWords();
-
-            runOnUiThread(() -> {
-
-                adapter = new WordListAdapter(this, learnedWordsList);
-                wordsListView.setAdapter(adapter);
-                wordsCount = learnedWordsList.size();
-
-                if (wordsCount > 0) {
-
-                    wordCountDisplay.setText("You know " + wordsCount + " words");
-
-                } else if (wordsCount == 0) {
-
-                    wordCountDisplay.setText("You haven't learned anything yet!");
-
-                }
-            });
-        }).start();
+        loadWordFromDB(this,wordsListView,wordCountDisplay);
 
     }
 }

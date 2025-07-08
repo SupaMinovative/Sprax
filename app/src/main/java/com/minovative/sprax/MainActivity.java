@@ -1,5 +1,7 @@
 package com.minovative.sprax;
 
+import static com.minovative.sprax.MethodHelper.shakeButton;
+
 import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.drawable.Drawable;
@@ -75,7 +77,7 @@ public class MainActivity extends AppCompatActivity {
 
         swipeBtn = findViewById(R.id.swipeBtn);
         recyclerView = findViewById(R.id.levelRecyclerView);
-        levelCardAdapter = new LevelCardAdapter(levelList, recyclerView, this);
+        levelCardAdapter = new LevelCardAdapter(levelList, this);
         recyclerView.setLayoutManager(new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false));
         recyclerView.setAdapter(levelCardAdapter);
 
@@ -95,14 +97,4 @@ public class MainActivity extends AppCompatActivity {
         levelList.add(new Level("B1.2", "B1_2VocabActivity", "Beginner"));
 
     }
-
-    public static void shakeButton(View view) {
-        Animation shake = new TranslateAnimation(-300,120,0,0);
-        shake.setDuration(15_000);
-
-        shake.setInterpolator(new CycleInterpolator(5));
-        shake.setRepeatMode(Animation.RESTART);
-        shake.setRepeatCount(Animation.INFINITE);
-        view.startAnimation(shake);
-    };
 }

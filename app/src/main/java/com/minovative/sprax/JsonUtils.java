@@ -11,8 +11,6 @@ public class JsonUtils {
 
     public static String AssetJSONFile(Context context) throws IOException {
 
-
-
         try (InputStream is = context.getAssets().open(JSON_FILE_NAME)) {
             int size = is.available();
             byte[] buffer = new byte[size];

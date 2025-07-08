@@ -22,17 +22,14 @@ public class FlashcardAdapter extends RecyclerView.Adapter<FlashcardAdapter.Flas
     private Context activityContext;
 
 
-    public FlashcardAdapter(List<Word> wordList, RecyclerView recyclerView, OnFlashcardCompletionListener listener, Context activityContext) {
+    public FlashcardAdapter(List<Word> wordList, RecyclerView recyclerView, Context activityContext, OnFlashcardCompletionListener listener) {
         this.wordList = wordList;
         this.recyclerView = recyclerView;
-
         this.activityContext = activityContext;
-
         this.listener = listener;
     }
-
+    @FunctionalInterface
     public  interface OnFlashcardCompletionListener {
-
         void onLastCardReached();
     }
 

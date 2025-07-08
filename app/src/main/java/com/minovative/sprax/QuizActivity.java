@@ -30,7 +30,6 @@ public class QuizActivity extends AppCompatActivity {
     private TextView scoreTextWrong;
     private Button checkCorrect;
     private Button restartButton;
-    private Button backMainButton;
     private List<Word> wordList = new ArrayList<>();
     private List<Word> wordToGuess = new ArrayList<>();
     private ArrayList<EditText> editTextList = new ArrayList<>();
@@ -55,13 +54,13 @@ public class QuizActivity extends AppCompatActivity {
         scoreText = findViewById(R.id.scoreText);
         scoreTextWrong = findViewById(R.id.scoreTextWrong);
         restartButton = findViewById(R.id.restartBtn);
-        backMainButton = findViewById(R.id.backMain);
+        Button backMainButton = findViewById(R.id.backMain);
 
         startGame();
 
         backMainButton.setOnClickListener(view -> {
 
-            Intent intent = new Intent(QuizActivity.this, MainActivity.class);
+            Intent intent = new Intent(QuizActivity.this,MainActivity.class);
             startActivity(intent);
         });
     }
@@ -82,7 +81,7 @@ public class QuizActivity extends AppCompatActivity {
                 editText.setWidth(125);
                 editText.setGravity(Gravity.CENTER);
                 editText.setFilters(new InputFilter[]{new InputFilter.LengthFilter(1)});
-                editText.setPadding(5, 5, 5, 5);
+                editText.setPadding(5,5,5,5);
                 editText.setTextSize(40);
                 editText.setInputType(InputType.TYPE_CLASS_TEXT);
                 editTextList.add(editText);
@@ -92,12 +91,12 @@ public class QuizActivity extends AppCompatActivity {
 
                 editText.addTextChangedListener(new TextWatcher() {
                     @Override
-                    public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {
+                    public void beforeTextChanged(CharSequence charSequence,int i,int i1,int i2) {
 
                     }
 
                     @Override
-                    public void onTextChanged(CharSequence charSequence, int start, int before, int count) {
+                    public void onTextChanged(CharSequence charSequence,int start,int before,int count) {
 
                         if (charSequence.length() == 1) {
 
@@ -106,7 +105,7 @@ public class QuizActivity extends AppCompatActivity {
                                 editTextList.get(currentIndex + 1).requestFocus();
                             }
                         }
-                        editText.setOnKeyListener(( v,keyCode,event ) -> {
+                        editText.setOnKeyListener((v,keyCode,event) -> {
 
                             if (keyCode == KeyEvent.KEYCODE_DEL && editText.getText().length() == 0) {
 
@@ -114,21 +113,22 @@ public class QuizActivity extends AppCompatActivity {
 
                                     editTextList.get(currentIndex - 1).requestFocus();
                                 }
-                            } return false;
+                            }
+                            return false;
                         });
                     }
 
                     @Override
-                    public void afterTextChanged( Editable editable ) {
+                    public void afterTextChanged(Editable editable) {
 
                     }
                 });
 
-            } else {
+            }else {
 
                 TextView textView = new TextView(this);
                 textView.setText(String.valueOf(c));
-                textView.setPadding(5, 5, 5, 5);
+                textView.setPadding(5,5,5,5);
                 textView.setTextSize(40);
                 wordContainer.addView(textView);
             }
@@ -162,7 +162,7 @@ public class QuizActivity extends AppCompatActivity {
 
             wordCounter++;
 
-            new android.os.Handler().postDelayed(() -> {
+            new android.os.Handler().postDelayed(( ) -> {
                 if (wordCounter < wordToGuess.size()) {
 
                     currentWord = wordToGuess.get(wordCounter);
@@ -171,7 +171,7 @@ public class QuizActivity extends AppCompatActivity {
                     showNextWord();
                     showGuessUI(guessingWord);
 
-                } else {
+                }else {
 
                     showNextWord();
                     showHintWord.setText("");
@@ -187,56 +187,54 @@ public class QuizActivity extends AppCompatActivity {
                     });
                 }
 
-            }, 1500);
+            },1500);
         });
     }
 
-    private void showNextWord() {
+        private void showNextWord () {
 
-        wordContainer.removeAllViews();
-        editTextList.clear();
-        result.setText("");
-    }
+            wordContainer.removeAllViews();
+            editTextList.clear();
+            result.setText("");
+        }
 
-    private void startGame() {
+        private void startGame () {
 
-        checkCorrect.setVisibility(View.VISIBLE);
-        restartButton.setVisibility(View.GONE);
+            checkCorrect.setVisibility(View.VISIBLE);
+            restartButton.setVisibility(View.GONE);
 
-        new Thread(() -> {
-            AppDatabase db = AppDatabase.getInstance(this);
-            WordDao wordDao = db.wordDao();
+            new Thread(( ) -> {
+                AppDatabase db = AppDatabase.getInstance(this);
+                WordDao wordDao = db.wordDao();
 
-            wordList = wordDao.getAllKnownWords();
+                wordList = wordDao.getAllKnownWords();
 
-            if (wordList.isEmpty()) {
+                if (wordList.isEmpty()) {
 
-                runOnUiThread(() -> {
+                    runOnUiThread(( ) -> {
 
-                    result.setText("You haven't learned any words yet 🥲 \n\n Please visit a lesson to collect some!");
-                    checkCorrect.setVisibility(View.INVISIBLE);
-                });
+                        result.setText("You haven't learned any words yet 🥲 \n\n Please visit a lesson to collect some!");
+                        checkCorrect.setVisibility(View.INVISIBLE);
+                    });
 
-            } else {
+                }else {
 
-                Collections.shuffle(wordList);
-                int maxIndex = Math.min(15, wordList.size());
+                    Collections.shuffle(wordList);
+                    int maxIndex = Math.min(15,wordList.size());
 
-                for (int i = 0; i < maxIndex; i++) {
-                    wordToGuess.add(wordList.get(i));
+                    for (int i = 0; i < maxIndex; i++) {
+                        wordToGuess.add(wordList.get(i));
+                    }
+
+                    currentWord = wordToGuess.get(wordCounter);
+                    guessingWord = new GuessingWord(currentWord.getGermanWord().substring(4));
+
+                    if (!isFinishing() && !isDestroyed()) {
+
+                        runOnUiThread(( ) ->
+                                showGuessUI(guessingWord));
+                    }
                 }
-
-                currentWord = wordToGuess.get(wordCounter);
-                guessingWord = new GuessingWord(currentWord.getGermanWord().substring(4));
-
-                if (!isFinishing() && !isDestroyed()) {
-
-                    runOnUiThread(() ->
-                            showGuessUI(guessingWord));
-                }
-            }
-        }).start();
+            }).start();
+        }
     }
-}
-
-

@@ -17,7 +17,7 @@ import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
 
-public class A1_5VocabActivity extends AppCompatActivity implements FlashcardAdapter.OnFlashcardCompletionListener {
+public class A1_5VocabActivity extends AppCompatActivity {
 
     private RecyclerView recyclerView;
     private FlashcardAdapter flashcardAdapter;
@@ -35,7 +35,12 @@ public class A1_5VocabActivity extends AppCompatActivity implements FlashcardAda
         activityName = this.getLocalClassName();
         recyclerView = findViewById(R.id.recyclerView);
 
-        flashcardAdapter = new FlashcardAdapter(wordList, recyclerView, this, this);
+        flashcardAdapter = new FlashcardAdapter(wordList, recyclerView, this, () -> {
+            Intent intent = new Intent(this, SummaryActivity.class);
+            intent.putExtra("ACTIVITY_NAME", activityName);
+            startActivity(intent);
+        });
+
         recyclerView.setLayoutManager(new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false));
         recyclerView.setAdapter(flashcardAdapter);
         loadJsonAndInsert();
@@ -97,13 +102,6 @@ public class A1_5VocabActivity extends AppCompatActivity implements FlashcardAda
         }).start();
     }
 
-    @Override
-    public void onLastCardReached() {
-
-        Intent intent = new Intent(this, SummaryActivity.class);
-        intent.putExtra("ACTIVITY_NAME", activityName);
-        startActivity(intent);
-    }
 
     @Override
     public void onDestroy(){
